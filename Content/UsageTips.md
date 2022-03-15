@@ -1,6 +1,6 @@
 # Usage Tips
 
-* Learn more about [Recovery](Recovery.md) and [Immediate Recovery](ImmediateRecovery.md).
+* Learn more about [Recovery](SP_Recovery.md) and [Immediate Recovery](ImmediateRecovery.md).
 
 * Tips specific to a browser: [Internet Explorer Tips](InternetExplorerTips.md) and [Firefox Tips](FirefoxTips.md).
 

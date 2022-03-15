@@ -29,4 +29,9 @@ Sandboxie documentation.
 * The doc mentions the Sandboxie Forums in several instances. While https://sandboxie-plus.com/ redirects
   to https://forum.xanasoft.com/, the github issues seem to indicate that the current forum
   is https://www.wilderssecurity.com/forums/sandboxie-sbie-open-source-plus-classic.144/. We need to decide which forum
-  we put forward, and reflect that in the doc
+  we put forward, and reflect that in the doc (many places, do a global search on _Favorites_)
+* There's a general confusion in the doc between _deleleting a sandbox_ and _deleting a sandbox's content_, which should
+  be clarified
+* What does the "Remember target selection" dropdown do when checked ? Whether checked or not, the location does not
+  change after recovering an item, and is not selected when opening the recovery window again. _Once clarified > update
+  Recovery.md_

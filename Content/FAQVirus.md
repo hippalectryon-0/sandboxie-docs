@@ -36,17 +36,17 @@ A. Yes. Files contained in the sandbox are stored in the hard disk, typically in
 
 ### Q. How should I respond to the anti-virus detecting a virus
 
-A. Your anti-virus should tell you where the virus was identified. If the virus was identified within the sandbox (typically, in the SANDBOX folder in drive C), there is little cause for alarm. You can immediately invoke the [Delete Sandbox](DeleteSandbox.md) command, or you may direct the anti-virus to delete the virus file, or move it to quarantine.
+A. Your anti-virus should tell you where the virus was identified. If the virus was identified within the sandbox (typically, in the SANDBOX folder in drive C), there is little cause for alarm. You can immediately invoke the [Delete Sandbox Content](DeleteSandboxContent.md) command, or you may direct the anti-virus to delete the virus file, or move it to quarantine.
 
 ### Q. When the anti-virus moves a virus file out of the sandbox and into quarantine, does it bypass Sandboxie?
 
-A. No. The anti-virus itself is not operating under the supervision of Sandboxie, even if the virus alert seems to indicate otherwise. Operating outside the sandbox, the anti-virus can reach into the sandbox folder, pull the virus file, and move it into quarantine. The process is similar to Sandboxie [Recovery](Recovery.md), wherein [Sandboxie Control](SandboxieControl.md) reaches inside the sandbox to pull some file out of it.
+A. No. The anti-virus itself is not operating under the supervision of Sandboxie, even if the virus alert seems to indicate otherwise. Operating outside the sandbox, the anti-virus can reach into the sandbox folder, pull the virus file, and move it into quarantine. The process is similar to Sandboxie [Recovery](SP_Recovery.md), wherein [Sandboxie Control](SandboxieControl.md) reaches inside the sandbox to pull some file out of it.
 
 ### Q. Will viruses remain in the sandbox after I close all programs in the sandbox?
 
 A. Yes and no:  
 1\. No, if your sandbox is set to [automatically](DeleteSettings.md#invocation) delete;  
-2\. Yes, in the configuration, but only until you [manually](DeleteSandbox.md) delete the contents of the sandbox.  
+2\. Yes, in the configuration, but only until you [manually](DeleteSandboxContent.md) delete the contents of the sandbox.  
 It is important to note that a virus file in the sandbox is just that -- _a file_, not much different from your average text file. Unless you move the file out of the sandbox and invoke it, there is little cause for alarm.
 
 ### Q. Do I have to securely wipe the contents of the sandbox to make sure the virus is gone?

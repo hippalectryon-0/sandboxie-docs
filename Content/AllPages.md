@@ -70,7 +70,7 @@
 
 [Delete Command](DeleteCommand.md)
 
-[Delete Sandbox](DeleteSandbox.md)
+[Delete Sandbox Content](DeleteSandboxContent.md)
 
 [Delete Settings](DeleteSettings.md)
 
@@ -244,7 +244,7 @@
 
 [Questions](Questions.md)
 
-[Recovery](Recovery.md)
+[Recovery](SP_Recovery.md)
 
 ### R
 

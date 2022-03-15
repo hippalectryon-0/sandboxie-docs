@@ -15,7 +15,7 @@ After completing the email configuration, you may want to test it to make sure t
 
 *   Quit your email program. If your email program suggests to send the test message, disregard the suggestion.
 
-*   Delete the sandbox. (See [Delete Sandbox](DeleteSandbox.md).)
+*   Delete the sandbox. (See [Delete Sandbox Content](DeleteSandboxContent.md).)
 
 *   Run your email program normally, that is, _outside the supervision_ of Sandboxie.
 

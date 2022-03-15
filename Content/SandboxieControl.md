@@ -54,7 +54,7 @@ To quit Sandboxie Control and remove its tray icon from the system notification 
 
 ### Quick Links to More Topics
 
-*   [Recovery](Recovery.md), [Immediate Recovery](ImmediateRecovery.md) and [Delete Sandbox](DeleteSandbox.md)
+*   [Recovery](SP_Recovery.md), [Immediate Recovery](ImmediateRecovery.md) and [Delete Sandbox Content](DeleteSandboxContent.md)
 
 *   [Sandbox Settings](SandboxSettings.md)
 

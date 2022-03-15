@@ -28,7 +28,7 @@ A. When the program is already running under Sandboxie, go to [Program Settings]
 
 ### Q. My email software is occasionally updated (automatically or manually). Will the updates take permanent effect?
 
-A. No. The updates will be installed in the sandbox and will disappear when the sandbox is [deleted](DeleteSandbox.md). To properly update your email software, run it outside the supervision of Sandboxie, then initiate the update process. If your email software is already set as a forced program (see previous question), use the [Disable Forced Programs](FileMenu.md#disable-forced-programs) command before starting your email software.
+A. No. The updates will be installed in the sandbox and will disappear when the sandbox is [deleted](DeleteSandboxContent.md). To properly update your email software, run it outside the supervision of Sandboxie, then initiate the update process. If your email software is already set as a forced program (see previous question), use the [Disable Forced Programs](FileMenu.md#disable-forced-programs) command before starting your email software.
 
 ### Q. Should I create a separate, dedicated sandbox just for email, or can I use the same sandbox for email and web browsing?
 

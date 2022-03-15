@@ -73,7 +73,7 @@ Then carry out all untrusted activity -- such as browsing the Web, reading email
 *   You can make sure you stop all of them, by telling Sandboxie to stop all activity in all sandboxes.
     *   See also the **Terminate All Programs** command in the [File Menu](FileMenu.md#terminate-all-programs) and the [Tray Icon Menu](TrayIconMenu.md#terminate-all-programs).
 *   Once stopped, you can discard the traces of their program code, by deleting the contents of the sandbox.
-    *   See also [Delete Sandbox](DeleteSandbox.md).
+    *   See also [Delete Sandbox Content](DeleteSandboxContent.md).
 
 Once discarded, they can no longer record your keyboard activity, and you are safe to browse to trusted sites and enter your passwords.
 

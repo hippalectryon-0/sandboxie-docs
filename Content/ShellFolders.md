@@ -28,4 +28,4 @@ Configuration settings in Sandboxie that specify folder paths generally accept r
   RecoverFolder=%Desktop%
 ```
 
-Indicates that [Recovery](Recovery.md) should look for sandboxed items in the desktop folder of whichever user is making the request.
+Indicates that [Recovery](SP_Recovery.md) should look for sandboxed items in the desktop folder of whichever user is making the request.

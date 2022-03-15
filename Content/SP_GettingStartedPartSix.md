@@ -41,7 +41,7 @@ settings are explained clearly, and you will find many settings that enable you 
 security and convenience.
 
 For example, one person may prefer greater security and control over web bookmarks and favorites, by letting them first
-save into the sandbox, and then recovering selected items through [Recovery](Recovery.md)
+save into the sandbox, and then recovering selected items through [Recovery](SP_Recovery.md)
 or [Immediate Recovery](ImmediateRecovery.md). (This is the default configuration in Sandboxie.)
 
 But another person may prefer to configure Sandboxie such that a sandboxed web browser can directly access the bookmarks

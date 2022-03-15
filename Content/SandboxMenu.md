@@ -33,11 +33,11 @@ One or more sub-menus appear for each sandbox defined. The default configuration
 
 *   The _Terminate Running Programs_ command stops all programs running in the sandbox.
 
-*   The _Quick Recovery_ command shows the [Recovery](Recovery.md) window.
+*   The _Quick Recovery_ command shows the [Recovery](SP_Recovery.md) window.
 
-*   The _Delete Content_ command shows the [Delete Sandbox](DeleteSandbox.md) window.
+*   The _Delete Content_ command shows the [Delete Sandbox Content](DeleteSandboxContent.md) window.
 
-*   The _Explore Contents_ command opens an _unsandboxed_ folder view for the contents of the sandbox _outside the supervision of Sandboxie_. If possible, use the [Files And Folders View](FilesAndFoldersView.md) to browse the contents of the sandbox.
+*   The _Explore Content_ command opens an _unsandboxed_ folder view for the contents of the sandbox _outside the supervision of Sandboxie_. If possible, use the [Files And Folders View](FilesAndFoldersView.md) to browse the contents of the sandbox.
 
 *   The _Sandbox Settings_ command opens the [Sandbox Settings](SandboxSettings.md) window.
 
