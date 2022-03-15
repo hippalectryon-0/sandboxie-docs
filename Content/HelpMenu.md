@@ -18,7 +18,7 @@ Opens a web browser on the [Help Topics](HelpTopics.md) page of this online docu
 
 [Sandboxie Control](SandboxieControl.md) > [Help Menu](HelpMenu.md) > Getting Started Tutorial (Web)
 
-Opens a web browser on the [Getting Started](GettingStarted.md) page of this online documentation. A window will open to ask if the web browser should run under the supervision of Sandboxie (recommended) or not:
+Opens a web browser on the [Getting Started](SP_GettingStarted.md) page of this online documentation. A window will open to ask if the web browser should run under the supervision of Sandboxie (recommended) or not:
 
 ![](../Media/OpenGettingStarted.png)
 

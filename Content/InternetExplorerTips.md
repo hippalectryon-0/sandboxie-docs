@@ -39,7 +39,7 @@ Note the Automatic Updates facility in Windows does not rely on Internet Explore
 
 These settings allows Internet Explorer running under Sandboxie to store favorites outside the sandbox, so they can persist even after the sandbox is deleted. When this option is not set, favorites are stored only in the sandbox, and will be deleted when the sandbox is deleted.
 
-The first setting (direct access) stores favorites directly outside the sandbox. The second setting ([Quick Recovery](QuickRecovery.md)) initially keeps the favorites in the sandbox but offers to recover (move out of the sandbox) any new favorites as they are added.
+The first setting (direct access) stores favorites directly outside the sandbox. The second setting ([Recovery](Recovery.md)) initially keeps the favorites in the sandbox but offers to recover (move out of the sandbox) any new favorites as they are added.
 
 The first setting is more flexible in that you can add, edit and delete favorites freely. The second setting is more secure, but at the cost of some measure of convenience.
 
@@ -95,7 +95,7 @@ The second setting allows Internet Explorer running under Sandboxie to store "Cr
 
 ![](../Media/DeleteInvocationSettings.png)
 
-*   Setting: Automatically delete contents of sandbox
+*   Setting: Automatically delete content of sandbox
 
 This setting tells Sandboxie to delete the sandbox whenever all programs in the sandbox stop running.
 

@@ -1,6 +1,6 @@
 # Programs View
 
-[Sandboxie Control](SandboxieControl.md) > [View Menu](ViewMenu.md) > [Programs](ViewMenu.md#programs)
+[Sandboxie Control](SandboxieControl.md) > [Content Browser](ContentBrowser.md) > [Programs](ContentBrowser.md#programs)
 
 ![](../Media/MainWindow.png)
 
@@ -24,7 +24,7 @@ The _Programs View_ provides context menus for sandboxes and programs. To displa
 
 *   Select (highlight) the row using the mouse or keyboard, then press Shift+F10\.
 
-*   Select (highlight) the row using the mouse or keyboard, then use the [View Menu -> Context Menu](ViewMenu.md#context-menu) command.
+*   Select (highlight) the row using the mouse or keyboard, then use the [View Menu -> Context Menu](ContentBrowser.md#context-menu) command.
 
 For a sandbox row, the context menu displayed is the same as [Sandbox Menu -> Sandbox Sub-Menu](SandboxMenu.md#sandbox-sub-menu). See there for a full description.
 

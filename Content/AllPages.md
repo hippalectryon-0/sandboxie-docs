@@ -128,17 +128,17 @@
 
 [General Tips](GeneralTips.md)
 
-[Getting Started](GettingStarted.md)
+[Getting Started](SP_GettingStarted.md)
 
-[Getting Started Part Five](GettingStartedPartFive.md)
+[Getting Started Part Five](SP_GettingStartedPartFive.md)
 
-[Getting Started Part Four](GettingStartedPartFour.md)
+[Getting Started Part Four](SP_GettingStartedPartFour.md)
 
-[Getting Started Part Six](GettingStartedPartSix.md)
+[Getting Started Part Six](SP_GettingStartedPartSix.md)
 
-[Getting Started Part Three](GettingStartedPartThree.md)
+[Getting Started Part Three](SP_GettingStartedPartThree.md)
 
-[Getting Started Part Two](GettingStartedPartTwo.md)
+[Getting Started Part Two](SP_GettingStartedPartTwo.md)
 
 ### H
 
@@ -244,7 +244,7 @@
 
 [Questions](Questions.md)
 
-[Quick Recovery](QuickRecovery.md)
+[Recovery](Recovery.md)
 
 ### R
 
@@ -574,7 +574,7 @@
 
 ### V
 
-[View Menu](ViewMenu.md)
+[Content Browser](ContentBrowser.md)
 
 ### W
 

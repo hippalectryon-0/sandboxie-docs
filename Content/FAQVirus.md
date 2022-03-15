@@ -40,7 +40,7 @@ A. Your anti-virus should tell you where the virus was identified. If the virus 
 
 ### Q. When the anti-virus moves a virus file out of the sandbox and into quarantine, does it bypass Sandboxie?
 
-A. No. The anti-virus itself is not operating under the supervision of Sandboxie, even if the virus alert seems to indicate otherwise. Operating outside the sandbox, the anti-virus can reach into the sandbox folder, pull the virus file, and move it into quarantine. The process is similar to Sandboxie [Quick Recovery](QuickRecovery.md), wherein [Sandboxie Control](SandboxieControl.md) reaches inside the sandbox to pull some file out of it.
+A. No. The anti-virus itself is not operating under the supervision of Sandboxie, even if the virus alert seems to indicate otherwise. Operating outside the sandbox, the anti-virus can reach into the sandbox folder, pull the virus file, and move it into quarantine. The process is similar to Sandboxie [Recovery](Recovery.md), wherein [Sandboxie Control](SandboxieControl.md) reaches inside the sandbox to pull some file out of it.
 
 ### Q. Will viruses remain in the sandbox after I close all programs in the sandbox?
 

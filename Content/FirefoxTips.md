@@ -84,7 +84,7 @@ This setting allows Firefox running under Sandboxie to have access to any data f
 
 ![](../Media/DeleteInvocationSettings.png)
 
-*   Setting: Automatically delete contents of sandbox
+*   Setting: Automatically delete content of sandbox
 
 This setting tells Sandboxie to delete the sandbox whenever all programs in the sandbox stop running.
 

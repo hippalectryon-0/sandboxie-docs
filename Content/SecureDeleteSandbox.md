@@ -33,7 +33,7 @@ To configure a global custom delete command, edit or insert the [DeleteCommand](
 
 When specifying this setting, make sure to include **"%SANDBOX%"** (with quote marks) in the command.
 
-Before launching the delete command, Sandboxie scans the sandbox to make sure all files can be properly deleted, as described in [Delete Contents of Sandbox](StartCommandLine.md#delete-contents-of-sandbox).
+Before launching the delete command, Sandboxie scans the sandbox to make sure all files can be properly deleted, as described in [Delete Content of Sandbox](StartCommandLine.md#delete-contents-of-sandbox).
 
 * * *
 

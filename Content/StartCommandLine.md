@@ -123,7 +123,7 @@ Note that Start.exe is not a console applications, so the output does not appear
 
 * * *
 
-### Delete Contents of Sandbox
+### Delete Content of Sandbox
 ```
   "C:\Program Files\Sandboxie\Start.exe"  delete_sandbox
   "C:\Program Files\Sandboxie\Start.exe"  delete_sandbox_silent

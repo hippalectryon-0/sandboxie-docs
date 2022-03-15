@@ -6,7 +6,7 @@
 
 ![](../Media/RecoverySettings.png)
 
-While you can manually explore the contents of the sandbox and extract the files you need, Sandboxie has a [Quick Recovery](QuickRecovery.md) tool that scans particular folders and informs you if any files are available for recovery out of the sandbox. The Recovery group configures this tool.
+While you can manually explore the contents of the sandbox and extract the files you need, Sandboxie has a [Recovery](Recovery.md) tool that scans particular folders and informs you if any files are available for recovery out of the sandbox. The Recovery group configures this tool.
 
 * * *
 
@@ -24,7 +24,7 @@ You can also influence this setting indirectly:
 *   In [Files And Folders View](FilesAndFoldersView.md), by right-clicking on _folder_ items and invoking the actions _Add Folder to Quick Recovery_ or _Remove Folder from Quick Recovery_.
 
 
-*   In the [Delete Sandbox](DeleteSandbox.md) or [Quick Recovery](QuickRecovery.md) windows, by clicking the _Add Folder_ button.
+*   In the [Delete Sandbox](DeleteSandbox.md) or [Recovery](Recovery.md) windows, by clicking the _Add Folder_ button.
 
 
 Related [Sandboxie Ini](SandboxieIni.md) setting: [RecoverFolder](RecoverFolder.md).

@@ -16,7 +16,7 @@ In a few words:
 
 > If you're viewing this on github.com, a more convenient site based on the same content and with inbuilt search is available [here](https://sandboxie-plus.github.io/sandboxie-docs)
 
-* [Getting Started with Sandboxie](Content/GettingStarted.md)
+* [Getting Started with Sandboxie](Content/SP_GettingStarted.md)
 * [General Usage Tips](Content/UsageTips.md)
 * [Usage Manual for Sandboxie Control](Content/SandboxieControl.md)
 * [Known Conflicts](Content/SandboxieKnownConflicts.md)

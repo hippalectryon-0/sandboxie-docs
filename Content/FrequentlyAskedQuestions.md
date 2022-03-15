@@ -236,7 +236,7 @@ Starting Sandboxie Control will also start the service. (But note that Administr
 
 ### How do I make Quick Recovery show my saved favorites and downloads?
 
-You may not see all your folders in Quick Recovery, as only a few are configured by default in the initial installation. See also [Quick Recovery](QuickRecovery.md).
+You may not see all your folders in Quick Recovery, as only a few are configured by default in the initial installation. See also [Recovery](Recovery.md).
 
 **Back to [Table of Contents](#problems)**
 

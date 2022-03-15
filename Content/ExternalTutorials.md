@@ -2,7 +2,7 @@
 
 For the official Getting Started tutorial on this web site, please click:
 
-[Getting Started](GettingStarted.md)
+[Getting Started](SP_GettingStarted.md)
 
 Other web sites offer more tutorials:
 
@@ -24,4 +24,4 @@ Other web sites offer more tutorials:
 
 **Back**
 
-Go back to the official [Getting Started](GettingStarted.md) tutorial.
+Go back to the official [Getting Started](SP_GettingStarted.md) tutorial.

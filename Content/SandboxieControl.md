@@ -18,7 +18,7 @@ Sandboxie Control is the graphical front end to Sandboxie, and can control most 
 
 	* [File Menu](FileMenu.md)
 
-	* [View Menu](ViewMenu.md)
+	* [Content Browser](ContentBrowser.md)
 
 	* [Sandbox Menu](SandboxMenu.md)
 
@@ -54,7 +54,7 @@ To quit Sandboxie Control and remove its tray icon from the system notification 
 
 ### Quick Links to More Topics
 
-*   [Quick Recovery](QuickRecovery.md), [Immediate Recovery](ImmediateRecovery.md) and [Delete Sandbox](DeleteSandbox.md)
+*   [Recovery](Recovery.md), [Immediate Recovery](ImmediateRecovery.md) and [Delete Sandbox](DeleteSandbox.md)
 
 *   [Sandbox Settings](SandboxSettings.md)
 

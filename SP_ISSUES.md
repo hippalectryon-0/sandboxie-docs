@@ -1,5 +1,16 @@
+# Comment
+
+Current workflow: once I've gone through updating a page, I prefix it with _SP__. Some non-prefixed pages may be
+modified, this means that they've been modified partially (ex: renaming an image) but I haven't properly updated them
+yet.
+
+All the non-SP items will be reverted to their original values once we're done, so as not to disturb the original Legacy
+Sandboxie documentation.
+
 # Issues found in updating the doc
 
+* The doc changes related to SB-Plus are precesed bu _SP__ (ex _SP_README.md_). We need to revert all the other (non-SP)
+  files to the original branch's values before doing the PR once we're finished.
 * The old sandboxie calls the main GUI "Sandboxie Control", but the new one is just called "Sandboxie Plus", which
   conflicts with the name of the program. Therefore the portions of the doc that refer to "Sandboxie Control" may be a
   bit confusing. So far I kept "Sandboxie Control" as the name of the main GUI in the doc.

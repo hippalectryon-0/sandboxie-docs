@@ -1,6 +1,6 @@
 # Help Topics
 
-#### Tutorial: [Getting Started](GettingStarted.md) with Sandboxie
+#### Tutorial: [Getting Started](SP_GettingStarted.md) with Sandboxie
 
 #### General [Usage Tips](UsageTips.md) for using Sandboxie
 
