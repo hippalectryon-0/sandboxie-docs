@@ -13,7 +13,8 @@ Sandboxie documentation.
   files to the original branch's values before doing the PR once we're finished.
 * The old sandboxie calls the main GUI "Sandboxie Control", but the new one is just called "Sandboxie Plus", which
   conflicts with the name of the program. Therefore the portions of the doc that refer to "Sandboxie Control" may be a
-  bit confusing. So far I kept "Sandboxie Control" as the name of the main GUI in the doc.
+  bit confusing. So far I kept "Sandboxie Control" as the name of the main GUI in the doc. Same issue with "Programs
+  View", which is now unnamed.
 * Shouldn't _Help>Online Documentation_ redirect here (https://sandboxie-plus.github.io/sandboxie-docs) rather
   than https://sandboxie-plus.com/ ?
 * Changed _Quick Recovery_ to _Recovery_ to reflect the SB-Plus UI with a "brutal" replacement, might have missed a few
@@ -37,3 +38,17 @@ Sandboxie documentation.
   Recovery.md_
 * Need to create _SBControl_ViewMenu.md_
 * Need to create _SBControl_LogView.md_ for _Sbie Messages_, _Trace Log_
+* When creating a new box, if you input bad characters in the name, it says "The sandbox name can contain only letters,
+  digits and underscores which are displayed as spaces." However, spaces can also be used. Moreover, it's not clear
+  whether there's a difference between underscores and spaces. Upon investigation, it would seem that underscores and
+  spaces are treated the same (can't create both "a a" and "a__a" sandbox)
+  . (https://github.com/sandboxie-plus/Sandboxie/issues/1693 When resolved, update _SandboxMenu.md_)
+* Need to create _BoxTypePresets.md_, or create one .md per type of preset and list them in _SandboxMenu.md_
+* SBControl>Sandbox>Create Box Group: What does this do ? Why does the "?" button do nothing ? Why can we create a group
+  with the same name twice ? (solved > create BoxGroups.md. Line to consider: "Related [Sandboxie Ini](SandboxieIni.md)
+  setting: BoxDisplayOrder.")
+* ![](Media/temp_1.png) Why do we have twice [None] ? Why is move up/down always greyed ? Why don't the groups have the
+  group icon (in the creation menu) instead of a sandbox icon ?
+* "Pause Forcing Programs" > same UI issue as "Create Box Group", the "?" button doesn't do anything. Also: would be
+  nice to have an indicator of remaining time.
+* SBControl > Sandbox > Maintenance: What do those options do ? (> SandboxMenu.md, or their own .md file))

@@ -1,86 +1,111 @@
 # Sandbox Menu
 
-[Sandboxie Control](SP_SBControl.md) > Sandbox Menu
+_[Sandboxie Control](SP_SBControl.md) > Sandbox_
 
-![](../Media/SandboxMenu.png)
+![](../Media/SP_SandboxMenu.png)
+* * *
+
+### Create New Box
+
+![](../Media/SP_CreateBox.png)
+
+The _Create New Box_ command defines a new sandbox in Sandboxie. A dialog box window will be displayed asking for the
+name of the new sandbox. The name can be any of combination of digits and letters, and its maximum length is 32
+characters.
+
+From the _Box Type Preset_ window, you can chose a default set of settings for your sandbox.
+See [Box Type Presets](BoxTypePresets.md) for more detail.
+
+A combobox button can specify some existing sandbox, from which settings will be copied into the new sandbox. If such an
+existing sandbox has not been selected, the new sandbox will initially have a default set of settings.
+
+Once the sandbox is created, you can alter its settings by double clicking the sandbox
+in [Sandboxie Control](SP_SBControl.md) to open its [Sandbox Settings](SandboxSettings.md).
+* * *
+
+### Create Box Group
+
+This creates a Box Group. This does not have any effect on how programs behave within a sandbox. Box Groups are a way to
+visually group together sandboxes, and restrict which are shown in the [Programs View](SBControl_ProgramsView.md).
+See [Box Groups](BoxGroups.md) for more detail.
+* * *
+
+### Terminate All Processes
+
+This terminates all the processes in all the sandboxes. Unless explicitely disabled, a popup will ask for confirmation.
+
+![](../Media/SP_TerminateAllProcesses.png)
+* * *
+
+### Window Finder
+
+The _Window Finder_ command is used to select a window displayed on the screen, and if the window is owned by a
+sandboxed program, the command displays the name of the program and the sandbox it is running in.
+
+![](../Media/SP_WindowFinder.png)
+
+The _Is Window Sandboxed?_ command is used to select a window displayed on the screen, and if the window is owned by a
+sandboxed program, the command displays the name of the program and the sandbox it is running in.
+
+To use the command, click and hold the left mouse button on the _Window Finder_ target. Without releasing the left mouse
+button, drag the target over the desired window, and when the target is within the boundaries of the desired window,
+release the left mouse button.
+
+If the window is owned by a sandboxed program, Sandboxie will display the program name and sandbox name.
+
+Some programs display their windows using customized graphics, and this prevents Sandboxie from showing the [#]
+indicators in the title bar. In these cases, you can use the _Window Finder_ command to make sure that the window and
+its related program are running sandboxed.
 
 * * *
 
-### Sandbox Sub-Menu
+### Pause Forcing Programs
 
-One or more sub-menus appear for each sandbox defined. The default configuration includes only one sandbox named _DefaultBox_, but more can be added using the [Create New Sandbox](SBControl_SandboxMenu.md#create-new-sandbox) command. Each sub-menu contains the following commands:
+The _Pause Forcing Programs_ toggle command temporarily disables or re-enables forced sandboxing. Normally,
+any [forced programs](ProgramStartSettings.md#forced-programs) (or programs in
+any [forced folders](ProgramStartSettings.md#forced-folders)) will automatically start under the supervision of
+Sandboxie. Forced sandboxing is temporarily suspended when the _Pause Forcing Programs_ command is invoked.
 
-*   The _Run Sandboxed_ sub-sub-menu is used to start programs under the supervision of Sandboxie:
+By default, forced sandboxing is suspended for 10 seconds. The number of seconds can be changed in the following dialog
+box, which appears when you select this command.
 
+![](../Media/SP_PauseForcingPrograms.png)
 
-*   The _Web Browser_ command starts the system (default) Web browser.  
-    (Note: If the wrong program starts, see [Frequently Asked Questions](FrequentlyAskedQuestions.md#why-does-the-wrong-program-start-when-i-run-my-default-web-browser-sandboxed) to fix this.)
+For the duration that the Disable Forced Programs mode is in effect:
 
+* The Sandboxie icon in the system tray area includes a small red X.
+* The "Pause Forcing Programs" command in the [Sandbox Menu](SBControl_SandboxMenu.md)
+  and [Tray Icon Menu](TrayIconMenu.md) appears with a checkmark next to it.
+* Message [SBIE1301](SBIE1301.md) will be issued if any forced programs are started.
+* Selecting this command again will cancel the mode, restore the icon to its original appearance, and resume the normal
+  operation of forced sandboxing.
 
-*   The _Email Reader_ command starts the system (default) email reader
-
-
-*   The _Any Program_ command displays the Run Any Program dialog box which is similar to the standard Windows _Run..._ dialog box. It can be used to start programs, open documents, and browse folders, all under the supervision of Sandboxie.
-
-
-
-*   The _From Start Menu_ command displays the Sandboxie Start menu, similar to the standard Windows Start menu. It can be used to start programs and other shortcuts that appear in the start menu and on the desktop. Note that if any programs were installed into the sandbox, the Sandboxie Start menu will include the shortcuts created during the installation.
-
-
-
-*   The _Windows Explorer_ command starts a sandboxed instance of the Windows Explorer. It can be used to navigate folders and start programs, all under the supervision of Sandboxie.
-
-
-*   The _Terminate Running Programs_ command stops all programs running in the sandbox.
-
-*   The _Quick Recovery_ command shows the [Recovery](SP_Recovery.md) window.
-
-*   The _Delete Content_ command shows the [Delete Sandbox Content](DeleteSandboxContent.md) window.
-
-*   The _Explore Content_ command opens an _unsandboxed_ folder view for the contents of the sandbox _outside the supervision of Sandboxie_. If possible, use the [Files And Folders View](FilesAndFoldersView.md) to browse the contents of the sandbox.
-
-*   The _Sandbox Settings_ command opens the [Sandbox Settings](SandboxSettings.md) window.
-
-*   The _Rename Sandbox_ command changes the name of the sandbox.
-
-*   The _Remove Sandbox_ command removes a sandboxed created using the [Create New Sandbox](SBControl_SandboxMenu.md#create-new-sandbox) command.
-
-These commands, except for Rename Sandbox and Remove Sandbox, are also available in the [Tray Icon Menu](TrayIconMenu.md).
+See also: [Tray Icon Menu > Pause Forcing Programs](TrayIconMenu.md#pause-forcing-programs)
 
 * * *
 
-### Create New Sandbox
+### Maintenance
 
-The _Create New Sandbox_ command defines a new sandbox in Sandboxie. A dialog box window will be displayed asking for the name of the new sandbox. The name can be any of combination of digits and letters, and its maximum length is 32 characters. A combobox button can specify some existing sandbox, from which settings will be copied into the new sandbox. If such an existing sandbox has not been selected, the new sandbox will initially have a default set of settings. Once the sandbox is created, the [Sandbox Settings](SandboxSettings.md) window can be used to alter sandbox settings.
-
-* * *
-
-### Set Container Folder
-
-The _Set Container Folder_ command selects the container (or master, or parent) folder which will contain all other sandboxes. The default location is **X:\Sandbox\%USER%\%SANDBOX%**, where **X:** stands for the drive where Windows is installed, typically **C:**.
-
-The special variable **%SANDBOX%** is replaced by the name of the sandbox.
-
-The special variable **%USER%** is replaced by the name of whichever user account (or logon) is using that sandbox. Note that a sandbox created in one user account is visible and can be used by other accounts in the system.  
-However, if the container folder includes the **%USER%** special variable, then the user accounts don't actually share the same sandbox. Each account has a separate instance of the sandbox.
-
-Related [Sandboxie Ini](SandboxieIni.md) setting: [FileRootPath](FileRootPath.md).
+TODO
 
 * * *
 
-### Set Layout and Groups
+### Exit
 
-The _Set Layout and Groups_ command permits ordering sandboxes within a hierarchy of groups, when displayed in menus and lists. This does not have any effect on how programs behave within a sandbox. This feature is useful when more than a few sandboxes are defined, as it permits easier menu access to a specific sandbox.
+The _Exit_ command quits [Sandboxie Control](SP_SBControl.md). Note that merely closing the window (or selecting the _
+Hide Window_ command from the [Tray Icon Menu](TrayIconMenu.md)) _does not_ quit Sandboxie Control.
 
-Once any groups have been defined, the main [Programs View](SBControl_ProgramsView.md) in [Sandboxie Control](SP_SBControl.md) will include a comobobox button which can be used to restrict the list of sandboxes which are displayed.
+Sandboxie is still active and correctly supervise programs even when the front-end application, Sandboxie Control, is
+not running. However, the following features are provided by Sandboxie Control and will not be available when the
+front-end program is not running:
 
-Related [Sandboxie Ini](SandboxieIni.md) setting: BoxDisplayOrder.
+* [Automatic Delete Sandbox](SettingsGeneralOptions.md#file-options)
+* [Immediate Recovery](ImmediateRecovery.md) and [Recovery](SP_Recovery.md)
+* [Disable Forced Programs mode](SBControl_SandboxMenu.md#pause-forcing-programs) (when initiated from
+  the [Sandboxie Start](StartCommandLine.md) program)
 
-* * *
-
-### Reveal Hidden Sandbox
-
-The _Reveal Hidden Sandbox_ commmand appears in the menu only if some sandboxes are not visible to or useable by the current user account. A sandbox can be restricted to specific user accounts using the [User Accounts Settings](UserAccountsSettings.md) settings page in the [Sandbox Settings](SandboxSettings.md) window. The _Reveal Hidden Sandbox_ command can restore visibility of a sandbox that has been made unavailable the current user account.
+If you do not wish to see Sandboxie Control in your system tray area, consider configuring the Windows task bar to
+always hide the icon, rather than exit Sandboxie Control.
 
 * * *
 

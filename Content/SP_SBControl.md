@@ -37,7 +37,7 @@ Sandboxie is primarily a mechanism to run other programs, not an interactive too
 window of Sandboxie Control, and the program will only be visible as a tray icon in your system notification area,
 typically at the lower-right corner of the screen:
 
-![](../Media/SB_TrayIcon.png)
+![](../Media/SP_TrayIcon.png)
 
 To toggle the hidden state, double-click the tray icon, or right-click it and select _Show/Hide_ (
 see [Tray Icon Menu](TrayIconMenu.md)). Additionally, you can hide the window by clicking the close button (

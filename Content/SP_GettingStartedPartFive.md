@@ -34,7 +34,7 @@ This behavior can be changed by altering a setting. In the main window of [Sandb
 double click _DefaultBox_ to open the [Sandbox Settings](SandboxSettings.md) window:
 
 The [Sandbox Settings](SandboxSettings.md) window appears. Navigate to
-the [General Options > File options](SettingsGeneralOptions.md#fileOptions) settings page:
+the [General Options > File options](SettingsGeneralOptions.md#file-options) settings page:
 
 ![](../Media/SP_SettingsDelete.png)
 
