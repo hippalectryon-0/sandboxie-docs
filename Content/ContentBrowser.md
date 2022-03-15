@@ -4,7 +4,7 @@
 
 ## Programs
 
-The Programs command selects [Programs View](SBControl_ProgramsView.md), which displays the programs running in each sandbox.
+The Programs command selects [Programs View](SP_SBControl_ProgramsView.md), which displays the programs running in each sandbox.
 This is the default view.
 
 ## Files and Folders

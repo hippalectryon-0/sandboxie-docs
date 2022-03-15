@@ -26,7 +26,7 @@ icon: ![](https://github.com/sandboxie-plus/sandboxie-docs/raw/main/Media/favico
 If you minimize all windows and examine your desktop, you should _not_ be able to see the new icon, because the file was
 in fact saved _in the sandbox_, and not yet recovered.
 
-[Sandboxie Control](SP_SBControl.md) shows the [Programs View](SBControl_ProgramsView.md) where it lists the programs running
+[Sandboxie Control](SP_SBControl.md) shows the [Programs View](SP_SBControl_ProgramsView.md) where it lists the programs running
 in the sandbox, but you can use the [Content Browser](ContentBrowser.md) to explore the contents of the sandbox. Right
 click _DefaultBox_ then click _Browse Content_.
 

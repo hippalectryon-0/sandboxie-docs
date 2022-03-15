@@ -44,4 +44,4 @@ For a file or folder, the context menu offers these commands:
 
 * * *
 
-Go to [Sandboxie Control](SP_SBControl.md), [Programs View](SBControl_ProgramsView.md), [Help Topics](HelpTopics.md).
+Go to [Sandboxie Control](SP_SBControl.md), [Programs View](SP_SBControl_ProgramsView.md), [Help Topics](HelpTopics.md).

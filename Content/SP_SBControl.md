@@ -49,7 +49,7 @@ select _Exit_.
 
 ### Views
 
-* [Programs View](SBControl_ProgramsView.md)
+* [Programs View](SP_SBControl_ProgramsView.md)
 * [Log View](SBControl_LogView.md)
 
 * * *

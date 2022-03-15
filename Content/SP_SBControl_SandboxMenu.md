@@ -26,7 +26,7 @@ in [Sandboxie Control](SP_SBControl.md) to open its [Sandbox Options](SP_SBOptio
 ### Create Box Group
 
 This creates a Box Group. This does not have any effect on how programs behave within a sandbox. Box Groups are a way to
-visually group together sandboxes, and restrict which are shown in the [Programs View](SBControl_ProgramsView.md).
+visually group together sandboxes, and restrict which are shown in the [Programs View](SP_SBControl_ProgramsView.md).
 See [Box Groups](BoxGroups.md) for more detail.
 * * *
 

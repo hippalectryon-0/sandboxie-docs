@@ -52,3 +52,11 @@ Sandboxie documentation.
 * "Pause Forcing Programs" > same UI issue as "Create Box Group", the "?" button doesn't do anything. Also: would be
   nice to have an indicator of remaining time.
 * SBControl > Sandbox > Maintenance: What do those options do ? (> SandboxMenu.md, or their own .md file))
+* SBControl > "Status" column: what are the possible values (both for program and sandbox) (> ProgramsView.md)
+* Using Shift+F10 to make the context menu appear: the context menu appears at the mouse position, however this shortcut
+  is (?) for users who prefer using the keyboard, so it would probably be better to make it appear at the selected row's
+  location ?
+* Need to create SandboxSubmenu to replace SP_SBControl_SandboxMenu.md#sandbox-sub-menu
+* Right click a program running in a sandbox > Preset > Pin to run menu: even when already pinned, the checkbox isn't
+  selected. If selected again, it doesn't un-pin the program. https://github.com/sandboxie-plus/Sandboxie/issues/1694
+* Right click program > Preset. What do "Block and terminate", "Set linger process" and "Seat leader process" do ?

@@ -236,7 +236,7 @@
 
 [Program Stop Settings](ProgramStopSettings.md)
 
-[Programs View](SBControl_ProgramsView.md)
+[Programs View](SP_SBControl_ProgramsView.md)
 
 [Protected Storage](ProtectedStorage.md)
 

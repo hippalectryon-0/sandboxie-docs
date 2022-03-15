@@ -3,9 +3,9 @@
 The Sandbox Options window in [Sandboxie Control](SP_SBControl.md) displays and changes the configuration and options
 associated with a single sandbox. The Sandbox Options window can be accessed in two ways:
 
-* From the [Programs View](SBControl_ProgramsView.md): Double-click the sandbox
+* From the [Programs View](SP_SBControl_ProgramsView.md): Double-click the sandbox
 
-* From either the [Programs View](SBControl_ProgramsView.md) or the [Tray Icon Menu](TrayIconMenu.md): Right-click on
+* From either the [Programs View](SP_SBControl_ProgramsView.md) or the [Tray Icon Menu](TrayIconMenu.md): Right-click on
   the sandbox, then select _Sandbox Options_.
 
 Note that unless new sandboxes are added, Sandboxie lists only one sandbox: DefaultBox.
@@ -36,7 +36,7 @@ For information about the settings, see these pages:
 
 * [Program Groups](SBOptions_ProgramGroups.md)
 
-* [Forced Groups](SBOptions_ForcedPrograms.md)
+* [Forced Programs](SBOptions_ForcedPrograms.md)
 
 * [Stop Behaviour](SBOptions_StopBehaviour.md)
 
