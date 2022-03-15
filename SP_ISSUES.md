@@ -60,3 +60,5 @@ Sandboxie documentation.
 * Right click a program running in a sandbox > Preset > Pin to run menu: even when already pinned, the checkbox isn't
   selected. If selected again, it doesn't un-pin the program. https://github.com/sandboxie-plus/Sandboxie/issues/1694
 * Right click program > Preset. What do "Block and terminate", "Set linger process" and "Seat leader process" do ?
+* sandbox > Run > Run Program. It says "type '.' to explore your Desktop with Sbie", but when I enter '.' it explores my
+  Documents folder instead

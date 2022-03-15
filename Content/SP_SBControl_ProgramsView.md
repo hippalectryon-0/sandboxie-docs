@@ -30,7 +30,7 @@ or program) in some row, do one of the following:
 * Right-click anywhere on the row.
 * Select (highlight) the row using the mouse or keyboard, then press Shift+F10.
 
-For a sandbox row, the context menu displayed is [Sandbox submenu](SandboxSubmenu.md), see there for a full description.
+For a sandbox row, the context menu displayed is [Sandbox submenu](SP_SandboxSubmenu.md), see there for a full description.
 
 For a program row, the context menu offers these commands:
 
@@ -39,7 +39,7 @@ For a program row, the context menu offers these commands:
 * The _Create Shortcut_ command creates a shortcut to run the program in the current sandbox.
 
 * The _Preset_ submenu contains:
-    * Pin to Run Menu: this adds a shortcut to this program in [Sandbox submenu > Run](SandboxSubmenu.md#run).
+    * Pin to Run Menu: this adds a shortcut to this program in [Sandbox submenu > Run](SP_SandboxSubmenu.md#run).
     * Block and Terminate: TODO
     * Allow Internet Access: this enables Internet Access for the program, provided that Internet Access is restricted
       (see [Internet Restrictions](SBOptions_InternetRestrictions.md)). If Internet Access if not restricted, it will
