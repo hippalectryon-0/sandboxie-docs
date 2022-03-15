@@ -21,6 +21,6 @@ For example, the default configuration includes Adobe Acrobat Reader as a Linger
 
 However, if you manually start Adobe Acrobat Reader sandboxed, for example by running it from the Sandboxie Start Menu, then the LingerProcess setting will not apply to that process.
 
-Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings -> Program Stop -> Lingering Programs](ProgramStopSettings.md#lingering-programs)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Options -> Program Stop -> Lingering Programs](ProgramStopSettings.md#lingering-programs)
 
 See also: [Program Settings](ProgramSettings.md#linger).

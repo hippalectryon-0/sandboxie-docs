@@ -18,4 +18,4 @@ This example hides any data which exists outside the sandbox within the _TypedPa
 
 Note: _WriteKeyPath_ is implemented internally as an enhanced form of [ClosedKeyPath](ClosedKeyPath.md).
 
-Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Resource Access > Registry Access > Write-Only Access](ResourceAccessSettings.md#registry-access--write-only-access)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Options > Resource Access > Registry Access > Write-Only Access](ResourceAccessSettings.md#registry-access--write-only-access)

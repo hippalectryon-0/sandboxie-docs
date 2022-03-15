@@ -19,7 +19,7 @@ the things that you can do with it:
 
 * Main Menu:
 
-    * [Sandbox Menu](SBControl_SandboxMenu.md)
+    * [Sandbox Menu](SP_SBControl_SandboxMenu.md)
 
     * [View Menu](ViewMenu.md)
 
@@ -59,7 +59,7 @@ select _Exit_.
 * [Recovery](SP_Recovery.md), [Immediate Recovery](ImmediateRecovery.md)
   and [Delete Sandbox Content](DeleteSandboxContent.md)
 
-* [Sandbox Settings](SandboxSettings.md)
+* [Sandbox Options](SP_SBOptions.md)
 
 * [Disable Forced Programs](FileMenu.md#disable-forced-programs)
 

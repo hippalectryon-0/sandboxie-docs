@@ -36,7 +36,7 @@ do not work as expected, please report it on the Sandboxie forum and ask for a s
 
 * * *
 
-Please also take some time now to review the many settings in the [Sandbox Settings](SandboxSettings.md) window. The
+Please also take some time now to review the many settings in the [Sandbox Options](SP_SBOptions.md) window. The
 settings are explained clearly, and you will find many settings that enable you to strike your preferred balance between
 security and convenience.
 

@@ -12,7 +12,7 @@ Then, click the **Delete Content** command in the [Tray Icon Menu](TrayIconMenu.
 
 ![](../Media/SP_TrayPopupDelete.png)
 
-You can also invoke the **Delete Content** command from the [Sandbox Menu](SBControl_SandboxMenu.md) in the main window
+You can also invoke the **Delete Content** command from the [Sandbox Menu](SP_SBControl_SandboxMenu.md) in the main window
 of [Sandboxie Control](SP_SBControl.md). The [Delete Sandbox Content](DeleteSandboxContent.md) window appears:
 
 ![](../Media/SP_DeleteSandboxContent.png)
@@ -31,10 +31,10 @@ In the default configuration, the sandbox's content is not deleted automatically
 the **Delete Content** command whenever you want to delete the contents of the sandbox.
 
 This behavior can be changed by altering a setting. In the main window of [Sandboxie Control](SP_SBControl.md),
-double click _DefaultBox_ to open the [Sandbox Settings](SandboxSettings.md) window:
+double click _DefaultBox_ to open the [Sandbox Options](SP_SBOptions.md) window:
 
-The [Sandbox Settings](SandboxSettings.md) window appears. Navigate to
-the [General Options > File options](SettingsGeneralOptions.md#file-options) settings page:
+The [Sandbox Options](SP_SBOptions.md) window appears. Navigate to
+the [General Options > File options](SBOptions_GeneralOptions.md#file-options) settings page:
 
 ![](../Media/SP_SettingsDelete.png)
 

@@ -536,9 +536,9 @@
 
 [Sandbox Hierarchy](SandboxHierarchy.md)
 
-[Sandbox Menu](SBControl_SandboxMenu.md)
+[Sandbox Menu](SP_SBControl_SandboxMenu.md)
 
-[Sandbox Settings](SandboxSettings.md)
+[Sandbox Options](SP_SBOptions.md)
 
 [Sandboxie Control](SP_SBControl.md)
 

@@ -26,7 +26,7 @@ The _Programs View_ provides context menus for sandboxes and programs. To displa
 
 *   Select (highlight) the row using the mouse or keyboard, then use the [View Menu -> Context Menu](ContentBrowser.md#context-menu) command.
 
-For a sandbox row, the context menu displayed is the same as [Sandbox Menu -> Sandbox Sub-Menu](SBControl_SandboxMenu.md#sandbox-sub-menu). See there for a full description.
+For a sandbox row, the context menu displayed is the same as [Sandbox Menu -> Sandbox Sub-Menu](SP_SBControl_SandboxMenu.md#sandbox-sub-menu). See there for a full description.
 
 For a program row, the context menu offerrs these commands:
 
@@ -34,7 +34,7 @@ For a program row, the context menu offerrs these commands:
 
 *   The _Program Settings_ command displays the [Program Settings](ProgramSettings.md) window for the program.
 
-*   The _Resource Access_ command displays the [Sandbox Settings > Resource Access](ResourceAccessSettings.md) group of settings pages, where the program name is pre-selected in the program name filter (_The list above applies to_ filter).
+*   The _Resource Access_ command displays the [Sandbox Options > Resource Access](ResourceAccessSettings.md) group of settings pages, where the program name is pre-selected in the program name filter (_The list above applies to_ filter).
 
 * * *
 

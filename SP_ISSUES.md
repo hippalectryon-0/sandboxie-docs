@@ -25,7 +25,7 @@ Sandboxie documentation.
   GettingStarted still accurate ?
 * https://github.com/sandboxie-plus/Sandboxie/issues/1692 > when resolved, reflect the chosen behavior in
   GettingStartedPartFive.md and DeleteSandbox.md
-* Used _SettingsGeneralOptions.md#fileOptions_ in _GettingStartedPartFive.md_, but doesn't exist yet (to replace _
+* Used _SBOptions_GeneralOptions.md#fileOptions_ in _GettingStartedPartFive.md_, but doesn't exist yet (to replace _
   DeleteSettings.html#invocation_)
 * The doc mentions the Sandboxie Forums in several instances. While https://sandboxie-plus.com/ redirects
   to https://forum.xanasoft.com/, the github issues seem to indicate that the current forum

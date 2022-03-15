@@ -12,7 +12,7 @@ You can configure a custom delete command through Sandboxie Control or by manual
 
 **In Sandboxie Control**
 
-Use [Sandbox Settings > Delete > Command](DeleteSettings.md#command). A couple of examples for the Delete Command:
+Use [Sandbox Options > Delete > Command](DeleteSettings.md#command). A couple of examples for the Delete Command:
 
 *   Invoke [Eraser by Heidi Computers](https://eraser.heidi.ie/) to delete the contents securely:
 ```

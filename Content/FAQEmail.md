@@ -16,15 +16,15 @@ A. No. As a safety measure, Sandboxie refuses to run your email program under it
 
 ### Q. How do I configure Sandboxie for use with my email software?
 
-A. Open [Sandbox Settings > Applications > Email Reader](ApplicationsSettings.md#email-reader) and select the email program that you use. If your mailbox data files are not in the default location, see [Sandbox Settings > Applications > Folders](ApplicationsSettings.md#folders). Then, you should also test the configuration; see [Test Email Configuration](TestEmailConfiguration.md).
+A. Open [Sandbox Options > Applications > Email Reader](ApplicationsSettings.md#email-reader) and select the email program that you use. If your mailbox data files are not in the default location, see [Sandbox Options > Applications > Folders](ApplicationsSettings.md#folders). Then, you should also test the configuration; see [Test Email Configuration](TestEmailConfiguration.md).
 
 ### Q. How do I run my email software under Sandboxie?
 
-A. You can use the _Run Email Reader_ command from the [Sandbox Menu](SBControl_SandboxMenu.md) or [Tray Icon Menu](TrayIconMenu.md) of [Sandboxie Control](SP_SBControl.md). You can also right-click _Run Sandboxed_ on the program icon for your email software.
+A. You can use the _Run Email Reader_ command from the [Sandbox Menu](SP_SBControl_SandboxMenu.md) or [Tray Icon Menu](TrayIconMenu.md) of [Sandboxie Control](SP_SBControl.md). You can also right-click _Run Sandboxed_ on the program icon for your email software.
 
 ### Q. How can I force my email software to always run under Sandboxie?
 
-A. When the program is already running under Sandboxie, go to [Program Settings](ProgramSettings.md#page-1), Page 1, and select the checkbox to _Force program to run in this sandbox_. You can also use [Sandbox Settings > Program Start > Forced Programs](ProgramStartSettings.md#forced-programs) to accomplish the same.
+A. When the program is already running under Sandboxie, go to [Program Settings](ProgramSettings.md#page-1), Page 1, and select the checkbox to _Force program to run in this sandbox_. You can also use [Sandbox Options > Program Start > Forced Programs](ProgramStartSettings.md#forced-programs) to accomplish the same.
 
 ### Q. My email software is occasionally updated (automatically or manually). Will the updates take permanent effect?
 

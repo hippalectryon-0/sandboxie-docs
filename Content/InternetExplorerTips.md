@@ -2,7 +2,7 @@
 
 ## Tips Specific to Internet Explorer
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > [Applications > Web Browser > Internet Explorer](ApplicationsSettings.md#web-browser)
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > [Applications > Web Browser > Internet Explorer](ApplicationsSettings.md#web-browser)
 
 ![](../Media/WebBrowserSettings1.png)
 
@@ -91,7 +91,7 @@ The second setting allows Internet Explorer running under Sandboxie to store "Cr
 
 #### Automatic Delete Sandbox
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > [Delete](DeleteSettings.md) > [Invocation](DeleteSettings.md#invocation)
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > [Delete](DeleteSettings.md) > [Invocation](DeleteSettings.md#invocation)
 
 ![](../Media/DeleteInvocationSettings.png)
 
@@ -103,7 +103,7 @@ This setting tells Sandboxie to delete the sandbox whenever all programs in the 
 
 #### Highlight Windows of Programs Running Under Sandboxie
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > [Appearance Settings](AppearanceSettings.md)
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > [Appearance Settings](AppearanceSettings.md)
 
 ![](../Media/AppearanceSettings.png)
 

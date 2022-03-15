@@ -19,6 +19,6 @@ A sandbox that has been restricted to specific users is considered _hidden_ to a
 
 Attempts to explicitly start a program in a sandbox that does not have an associated _Enabled=y_ setting will fail.
 
-Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > User Accounts](UserAccountsSettings.md)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Options > User Accounts](UserAccountsSettings.md)
 
-Related [Sandboxie Control](SP_SBControl.md) command: [Sandbox Menu > Reveal Hidden Sandbox](SBControl_SandboxMenu.md#reveal-hidden-sandbox)
+Related [Sandboxie Control](SP_SBControl.md) command: [Sandbox Menu > Reveal Hidden Sandbox](SP_SBControl_SandboxMenu.md#reveal-hidden-sandbox)

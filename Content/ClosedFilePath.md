@@ -30,8 +30,8 @@ The second example shows how to configure Sandboxie to block sandboxed programs 
 
 The value specified for ClosedFilePath can include wildcards. For more information on this, including examples that show the use of wildcards, see [OpenFilePath](OpenFilePath.md).
 
-The third example (spanning four lines) disables Internet access within a sandbox _except_ for Internet Explorer (_iexplore.exe_). See also [Sandbox Settings > Restrictions > Internet Access](RestrictionsSettings.md#internet-access).
+The third example (spanning four lines) disables Internet access within a sandbox _except_ for Internet Explorer (_iexplore.exe_). See also [Sandbox Options > Restrictions > Internet Access](RestrictionsSettings.md#internet-access).
 
 **Note:** Unlike the corresponding OpenFilePath setting, the _ClosedFilePath_ settings always applies to sandboxed programs, whether the program executable file resides within the sandbox, or out of it.
 
-Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Resource Access > File Access > Blocked Access](ResourceAccessSettings.md#file-access--blocked-access)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Options > Resource Access > File Access > Blocked Access](ResourceAccessSettings.md#file-access--blocked-access)

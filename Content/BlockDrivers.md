@@ -34,4 +34,4 @@ OpenFilePath=c:\program files\MyNewSoftware\SoftwareDriver.sys
 
 **Note:** Allowing sandboxed programs to install drivers is not recommended.
 
-Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Restrictions > Low-Level Access](RestrictionsSettings.md#low-level-access--removed)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Options > Restrictions > Low-Level Access](RestrictionsSettings.md#low-level-access--removed)

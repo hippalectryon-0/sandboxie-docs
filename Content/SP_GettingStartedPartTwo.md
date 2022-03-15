@@ -33,7 +33,7 @@ The sandboxed program should appear in the main window of [Sandboxie Control](SP
 
 The window displays the list of programs that are currently running _sandboxed_ under the supervision of Sandboxie.
 Initially there is just one sandbox, _DefaultBox_, however, more sandboxes can be created; see
-the [Create New Sandbox](SBControl_SandboxMenu.md#create-new-sandbox) command in the [Sandbox Menu](SBControl_SandboxMenu.md).
+the [Create New Sandbox](SP_SBControl_SandboxMenu.md#create-new-sandbox) command in the [Sandbox Menu](SP_SBControl_SandboxMenu.md).
 
 The picture above shows Sandboxie is running four programs. The last, _firefox.exe_, stands for Firefox, as this
 tutorial assumes Firefox is the Web browser in use. If the default Web browser in your system is Internet Explorer, or

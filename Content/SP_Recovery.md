@@ -1,6 +1,6 @@
 # Recovery
 
-_[Sandboxie Control](SP_SBControl.md) > [Sandbox Menu](SBControl_SandboxMenu.md) > Sandbox > Recover Files_
+_[Sandboxie Control](SP_SBControl.md) > [Sandbox Menu](SP_SBControl_SandboxMenu.md) > Sandbox > Recover Files_
 
 _[Sandboxie Control](SP_SBControl.md) > [Tray Icon Menu](TrayIconMenu.md) > Sandbox > Recover Files_
 
@@ -9,7 +9,7 @@ out of the sandbox. For instance, a document file downloaded by a sandboxed brow
 file can be extracted and placed in the _Documents_ folder outside the sandbox.
 
 A rudimentary approach is to use the regular, non-sandboxed Windows Explorer to navigate inside the folders that make up
-the sandbox. By using the _[Sandbox Menu](SBControl_SandboxMenu.md) > Sandbox > Box Content > Explore Content_ command, you can
+the sandbox. By using the _[Sandbox Menu](SP_SBControl_SandboxMenu.md) > Sandbox > Box Content > Explore Content_ command, you can
 open a folder window (unsandboxed) with a view into the sandbox. You can then navigate in the depth of the sandbox
 folder, and _cut_ sandboxed files in order to _paste_ them somewhere else.
 
@@ -18,7 +18,7 @@ programs. It scans a few sandboxed folders, which have to be selected in advance
 finds within them. These files (and folders) can be recovered into the corresponding location outside the sandbox, or to
 any location.
 
-To invoke the Recovery window, use the _[Sandbox Menu](SBControl_SandboxMenu.md) > Sandbox > Recover Files_
+To invoke the Recovery window, use the _[Sandbox Menu](SP_SBControl_SandboxMenu.md) > Sandbox > Recover Files_
 command (or the corresponding command from the [Tray Icon Menu](TrayIconMenu.md)). Recovery also appears as part of
 the [Delete Sandbox Content](DeleteSandboxContent.md) window.
 
@@ -47,7 +47,7 @@ and _Documents_ folders. Where applicable, your _Downloads_ folder is also consi
 
 * You can add more folders using the _Add Folder_ button.
 
-* You can use [Sandbox Settings > File Recovery](RecoverySettings.md) to add and remove folders.
+* You can use [Sandbox Options > File Recovery](RecoverySettings.md) to add and remove folders.
 
 * * *
 Go to [Delete Sandbox Content](DeleteSandboxContent.md), [Immediate Recovery](ImmediateRecovery.md)

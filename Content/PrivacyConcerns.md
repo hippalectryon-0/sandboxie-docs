@@ -51,7 +51,7 @@ On Windows 7 and later, Windows Explorer stores information associated with icon
    %Appdata%\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts
 ```
 
-The [Sandbox Settings > Applications > Miscellaneous](ApplicationsSettings.md#miscellaneous) settings page includes the setting "Permit programs to update jump lists in the Windows 7 taskbar". If this setting is enabled, additional files are created in the following folders, within the user profile folder.
+The [Sandbox Options > Applications > Miscellaneous](ApplicationsSettings.md#miscellaneous) settings page includes the setting "Permit programs to update jump lists in the Windows 7 taskbar". If this setting is enabled, additional files are created in the following folders, within the user profile folder.
 ```
    %Appdata%\Microsoft\Windows\Recent\CustomDestinations
    %Appdata%\Microsoft\Windows\Recent\AutomaticDestinations
@@ -87,7 +87,7 @@ Snapshots are recorded in the (typically inaccessible) folder called _System Vol
 
 Thus it is possible that System Restore will create backup copies in its folders for files or programs that exist only in the sandbox.
 
-The System Restore component ignores files and folders in temporary folders, so [moving the sandbox](SBControl_SandboxMenu.md) to C:\TEMP\SANDBOX instead of the default C:\SANDBOX should cause System Restore to ignore the sandbox when creating a snapshot.
+The System Restore component ignores files and folders in temporary folders, so [moving the sandbox](SP_SBControl_SandboxMenu.md) to C:\TEMP\SANDBOX instead of the default C:\SANDBOX should cause System Restore to ignore the sandbox when creating a snapshot.
 
 **System, Audit and Other Event Logs**
 

@@ -2,7 +2,7 @@
 
 ### Applications" Settings Group
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications.
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Applications.
 
 ![](../Media/ApplicationsSettings.png)
 
@@ -12,7 +12,7 @@ This group of settings pages offers quick configuration of Sandboxie for use wit
 
 ### Web Browser
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Web Browser
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Applications > Web Browser
 
 This settings sub-group is itself divided into three sub-groups:
 
@@ -45,7 +45,7 @@ Two special settings on the Internet Explorer settings page:
 
 #### Email Reader
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Email Reader
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Applications > Email Reader
 
 ![](../Media/EmailReaderSettings.png)  
 
@@ -69,11 +69,11 @@ You may also need to tell Sandboxie where your mailbox data files reside, in the
 *   If your mailbox resides in a non-default or non-standard location.
 *   If you use the Eudora or The-Bat! email software.
 
-To do that, open [Sandbox Settings > Applications > Folders](ApplicationsSettings.md#folders), select your email software from the drop-down list, and then select a folder location to be associated with it.
+To do that, open [Sandbox Options > Applications > Folders](ApplicationsSettings.md#folders), select your email software from the drop-down list, and then select a folder location to be associated with it.
 
 After completing the email configuration, you may want to test it, to make sure that even when running under Sandboxie, new emails are not lost when you delete the sandbox. To do that, follow the steps outlined in [Test Email Configuration](TestEmailConfiguration.md).
 
-If your email program is not known to Sandboxie, you can use [Sandbox Settings > Resource Access > File Access > Direct Access](ResourceAccessSettings.md#file-access--direct-access) to explicitly add direct access to the folder containing your mailbox data files.
+If your email program is not known to Sandboxie, you can use [Sandbox Options > Resource Access > File Access > Direct Access](ResourceAccessSettings.md#file-access--direct-access) to explicitly add direct access to the folder containing your mailbox data files.
 
 See also message [SBIE2212](SBIE2212.md), [Email Protection](EmailProtection.md), and [FAQ Email](FAQEmail.md).
 
@@ -91,7 +91,7 @@ Select (highlight) the desired configuration and click the _Add_ button to enabl
 
 #### Local
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Local
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Applications > Local
 
 ![](../Media/LocalApplicationsSettings.png)
 
@@ -103,7 +103,7 @@ For more information about designing your own application configuration packages
 
 #### Folders
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Folders
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Applications > Folders
 
 ![](../Media/FolderApplicationsSettings.png)
 
@@ -115,7 +115,7 @@ First, select (highlight) the desired application, then click the _Add_ button t
 
 #### Accessibility Settings
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Accessibility
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Applications > Accessibility
 
 ![](../Media/AccessibilitySettings.png)
 
@@ -132,4 +132,4 @@ Normally, the isolation of Sandboxie prevents the screen reader from accessing t
 
 Enabling the setting will weaken the protection of the Sandboxie in order to permit two-way communication between the screen reader program and the sandboxed program.
 
-You may wish to enable [Sandbox Settings > Restrictions > Drop Rights](RestrictionsSettings.md#drop-rights) to compensate for the lost protection.
+You may wish to enable [Sandbox Options > Restrictions > Drop Rights](RestrictionsSettings.md#drop-rights) to compensate for the lost protection.

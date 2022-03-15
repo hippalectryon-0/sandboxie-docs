@@ -23,4 +23,4 @@ When specifying this setting, make sure to include **"%SANDBOX%"** (with quote m
 
 Note: Secure deletion is a privacy measure, not a security measure. Both regular deletion and secure deletion effectively remove undesired software that was collected into the sandbox. See [Secure Delete Sandbox](SecureDeleteSandbox.md).
 
-Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Delete > Command](DeleteSettings.md#command)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Options > Delete > Command](DeleteSettings.md#command)

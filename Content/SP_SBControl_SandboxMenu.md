@@ -20,7 +20,7 @@ A combobox button can specify some existing sandbox, from which settings will be
 existing sandbox has not been selected, the new sandbox will initially have a default set of settings.
 
 Once the sandbox is created, you can alter its settings by double clicking the sandbox
-in [Sandboxie Control](SP_SBControl.md) to open its [Sandbox Settings](SandboxSettings.md).
+in [Sandboxie Control](SP_SBControl.md) to open its [Sandbox Options](SP_SBOptions.md).
 * * *
 
 ### Create Box Group
@@ -74,7 +74,7 @@ box, which appears when you select this command.
 For the duration that the Disable Forced Programs mode is in effect:
 
 * The Sandboxie icon in the system tray area includes a small red X.
-* The "Pause Forcing Programs" command in the [Sandbox Menu](SBControl_SandboxMenu.md)
+* The "Pause Forcing Programs" command in the [Sandbox Menu](SP_SBControl_SandboxMenu.md)
   and [Tray Icon Menu](TrayIconMenu.md) appears with a checkmark next to it.
 * Message [SBIE1301](SBIE1301.md) will be issued if any forced programs are started.
 * Selecting this command again will cancel the mode, restore the icon to its original appearance, and resume the normal
@@ -99,9 +99,9 @@ Sandboxie is still active and correctly supervise programs even when the front-e
 not running. However, the following features are provided by Sandboxie Control and will not be available when the
 front-end program is not running:
 
-* [Automatic Delete Sandbox](SettingsGeneralOptions.md#file-options)
+* [Automatic Delete Sandbox](SBOptions_GeneralOptions.md#file-options)
 * [Immediate Recovery](ImmediateRecovery.md) and [Recovery](SP_Recovery.md)
-* [Disable Forced Programs mode](SBControl_SandboxMenu.md#pause-forcing-programs) (when initiated from
+* [Disable Forced Programs mode](SP_SBControl_SandboxMenu.md#pause-forcing-programs) (when initiated from
   the [Sandboxie Start](StartCommandLine.md) program)
 
 If you do not wish to see Sandboxie Control in your system tray area, consider configuring the Windows task bar to

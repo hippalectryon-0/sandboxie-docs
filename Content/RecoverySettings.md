@@ -2,7 +2,7 @@
 
 ### "Recovery" Settings Group
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Recovery:
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Recovery:
 
 ![](../Media/RecoverySettings.png)
 
@@ -14,7 +14,7 @@ of the sandbox. The Recovery group configures this tool.
 
 ### Quick Recovery
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Recovery > Quick Recovery:
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Recovery > Quick Recovery:
 
 ![](../Media/QuickRecoverySettings.png)
 
@@ -35,7 +35,7 @@ Related [Sandboxie Ini](SandboxieIni.md) setting: [RecoverFolder](RecoverFolder.
 
 ### Immediate Recovery
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Recovery > Immediate Recovery:
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Recovery > Immediate Recovery:
 
 ![](../Media/ImmediateRecoverySettings.png)
 

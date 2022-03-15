@@ -30,7 +30,7 @@ These settings control how Sandboxie handles programs that start outside any san
 
 *   **Force program to run in this sandbox**
     *   Sandboxie will automatically force the program to run in this sandbox.
-    *   See also [Sandbox Settings > Program Start > Forced Programs](ProgramStartSettings.md#forced-programs).
+    *   See also [Sandbox Options > Program Start > Forced Programs](ProgramStartSettings.md#forced-programs).
 
 **Program Stop**
 
@@ -40,13 +40,13 @@ These settings control how Sandboxie handles this program stopping in this sandb
 
 *   **Stop this program if it lingers in the sandbox after other programs have ended**
     *   Sandboxie will automatically terminate this program if it remains running when all other programs stopped.
-    *   See also [Sandbox Settings > Program Stop > Lingering Programs](ProgramStopSettings.md#lingering-programs).
+    *   See also [Sandbox Options > Program Stop > Lingering Programs](ProgramStopSettings.md#lingering-programs).
 
 <a name="leader" id="leader"></a>
 
 *   **Stop other programs after this leader program has ended**
     *   Sandboxie will terminate every other program in the sandbox when this program stops.
-    *   See also [Sandbox Settings > Program Stop > Leader Programs](ProgramStopSettings.md#leader-programs).
+    *   See also [Sandbox Options > Program Stop > Leader Programs](ProgramStopSettings.md#leader-programs).
 
 * * *
 
@@ -63,7 +63,7 @@ These settings control which restrictions apply to this program.
 *   **Enable restrictions and allow this program to connect to the Internet**
     *   Enable Internet restrictions in the sandbox, which means no program can connect to the Internet unless explicitly allowed.
     *   Additionally, explicitly allows this program to connect to the Internet from this sandbox.
-    *   See also [Sandbox Settings > Restrictions > Internet Access](RestrictionsSettings.md#internet-access).
+    *   See also [Sandbox Options > Restrictions > Internet Access](RestrictionsSettings.md#internet-access).
 
 **Start/Run Restrictions**:
 
@@ -72,4 +72,4 @@ These settings control which restrictions apply to this program.
 *   **Enable restrictions and allow this program to start**
     *   Enable Start/Run restrictions in the sandbox, which means no program can start unless explicitly allowed.
     *   Additionally, explicitly allows this program to start and run in this sandbox.
-    *   See also [Sandbox Settings > Restrictions > Start/Run Access](RestrictionsSettings.md#startrun-access).
+    *   See also [Sandbox Options > Restrictions > Start/Run Access](RestrictionsSettings.md#startrun-access).

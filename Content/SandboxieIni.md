@@ -2,7 +2,7 @@
 
 Some aspects of the operation of Sandboxie can be altered or fine-tuned through the use of a human-readable textual configuration file called Sandboxie.ini. This section describes the structure and contents of the file.
 
-As a general rule, manual editing of the configuration file is discouraged. You are advised to use [Sandboxie Control](SP_SBControl.md) to make configuration changes. See [Sandbox Settings](SandboxSettings.md).
+As a general rule, manual editing of the configuration file is discouraged. You are advised to use [Sandboxie Control](SP_SBControl.md) to make configuration changes. See [Sandbox Options](SP_SBOptions.md).
 
 ## Location
 
@@ -22,7 +22,7 @@ Configuration settings in the file are split into groups, or sections. A section
 
 * The Global Settings section contains settings global to Sandboxie. These apply in one way or another to all sandboxes and all user accounts. There can be only one Global Settings section, typically at the top of the configuration file. 
 
-* One Sandbox Settings section for each sandbox known to Sandboxie. A valid sandbox name is a string of letters and digits, and has a maximum length of 32 characters. The Sandbox Settings section should contain the setting [Enabled](Enabled.md)=yes. 
+* One Sandbox Options section for each sandbox known to Sandboxie. A valid sandbox name is a string of letters and digits, and has a maximum length of 32 characters. The Sandbox Options section should contain the setting [Enabled](Enabled.md)=yes. 
 
 * One User Settings section for each user account. These settings record the state of [Sandboxie Control](SP_SBControl.md) for a particular user account, and include such information as the size of the window. These settings are not documented here, but see a brief discussion below. 
 
@@ -63,9 +63,9 @@ The file is UNICODE-encoded, which means each character is composed of two bytes
 * Global settings must be placed in the GlobalSettings section, and cannot be overriden by also including them in a sandbox section.
 * Sandbox settings may appear in the GlobalSettings section, and can be overriden by also including them in a sandbox section. 
 
-### Sandbox Settings:
+### Sandbox Options:
 
-* Listed in the navigation bar on the right under the heading Sandbox Settings.
+* Listed in the navigation bar on the right under the heading Sandbox Options.
 * Settings apply to a particular sandbox when specified in the associated sandbox setion.
 * Settings apply to all sandboxes when specified in the [GlobalSettings] section.
 * Settings in the sandbox section override corresponding settings from [GlobalSettings]. 

@@ -26,4 +26,4 @@ The color is specified in HTML-like RGB color notation:
 
 The border will not be drawn when [Sandboxie Control](SP_SBControl.md) is not running.
 
-Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Appearance](AppearanceSettings.md)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Options > Appearance](AppearanceSettings.md)

@@ -2,7 +2,7 @@
 
 ### "Restrictions" Settings Group
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Restrictions
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Restrictions
 
 ![](../Media/RestrictionsSettings.png)
 
@@ -15,7 +15,7 @@ Settings in this section are intended to alter the default set of restrictions t
 
 ### Internet Access
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Restrictions > Internet Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Restrictions > Internet Access
 
 ![](../Media/InternetAccessSettings.png)
 
@@ -42,7 +42,7 @@ Related [Sandboxie Ini](SandboxieIni.md) settings: [ClosedFilePath](ClosedFilePa
 
 ### Start/Run Access
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Restrictions > Start/Run Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Restrictions > Start/Run Access
 
 ![](../Media/StartRunAccessSettings.png)
 
@@ -68,7 +68,7 @@ Related [Sandboxie Ini](SandboxieIni.md) settings: [ClosedIpcPath](ClosedIpcPath
 
 ### Drop Rights
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Restrictions > Drop Rights
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Restrictions > Drop Rights
 
 ![](../Media/DropRightsSettings.png)
 
@@ -88,7 +88,7 @@ Related [Sandboxie Ini](SandboxieIni.md) settings: [DropAdminRights](DropAdminRi
 
 ### Previous versions of Sandboxie should not be used and they may not function.
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Restrictions > Low-Level Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Restrictions > Low-Level Access
 
 ![](../Media/LowLevelAccessSettings.png)
 
@@ -115,7 +115,7 @@ This category manages restrictions for several types of global operations which 
 
 ### Previous versions of Sandboxie should not be used and they may not function.
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Restrictions > Hardware Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Options](SP_SBOptions.md) > Restrictions > Hardware Access
 
 ![](../Media/HardwareAccessSettings.png)
 

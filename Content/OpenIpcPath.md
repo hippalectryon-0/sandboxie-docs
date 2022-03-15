@@ -37,4 +37,4 @@ The third example permits a program running inside the sandbox to have full acce
 
 **Note:** The examples in this page, if applied, will create vulnerabilities within the sandbox. They are meant only to show why some resources are blocked, and how they can be un-blocked and exposed for use, if necessary.
 
-Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Resource Access > IPC Access > Direct Access](ResourceAccessSettings.md#ipc-access--direct-access)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Options > Resource Access > IPC Access > Direct Access](ResourceAccessSettings.md#ipc-access--direct-access)
