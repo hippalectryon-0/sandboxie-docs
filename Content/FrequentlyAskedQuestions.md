@@ -222,7 +222,7 @@ See full article: [Email Protection](EmailProtection.md).
 
 By default Sandboxie is configured to load and start automatically. To have Sandboxie load only when you need it, make the following changes.
 
-*   In [Sandboxie Control](SandboxieControl.md), open the _Configure -> Shell Integration_ window, and clear the checkbox _When Windows starts_ to stop Sandboxie Control from starting.
+*   In [Sandboxie Control](SP_SBControl.md), open the _Configure -> Shell Integration_ window, and clear the checkbox _When Windows starts_ to stop Sandboxie Control from starting.
 
 *   Open the Windows Services configuration window: _Start menu -> Control Panel -> Administrative Tools -> Services_. Then locate the Sandboxie Service. Double click to bring up its properties window. Set its _Startup type_ to _Manual_ rather than automatic.
 

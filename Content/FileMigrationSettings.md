@@ -1,6 +1,6 @@
 # File Migration Settings
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > File Migration:
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > File Migration:
 
 ![](../Media/FileMigrationSettings.png)
 

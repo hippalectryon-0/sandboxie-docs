@@ -12,4 +12,4 @@ Usage:
    AutoRecover=yes
 ```
 
-Related [Sandboxie Control](SandboxieControl.md) setting: [Sandbox Settings > Recovery > Immediate Recovery](RecoverySettings.md#immediate-recovery)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Recovery > Immediate Recovery](RecoverySettings.md#immediate-recovery)

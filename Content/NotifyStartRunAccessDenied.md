@@ -11,4 +11,4 @@ Usage:
    NotifyStartRunAccessDenied=y
 ```
 
-Related [Sandboxie Control](SandboxieControl.md) setting: [Sandbox Settings > Restrictions > Start/Run Access](RestrictionsSettings.md#startrun-access) Related [Sandboxie Control](SandboxieControl.md) setting: [Program Settings](ProgramSettings.md#page-2)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Restrictions > Start/Run Access](RestrictionsSettings.md#startrun-access) Related [Sandboxie Control](SP_SBControl.md) setting: [Program Settings](ProgramSettings.md#page-2)

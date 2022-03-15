@@ -20,20 +20,20 @@ some in languages other than English, others are in video form rather than text.
 
 ### Sandboxie Control
 
-Sandboxie is operated primarily through the [Sandboxie Control](SandboxieControl.md) program. This program adds the
+Sandboxie is operated primarily through the [Sandboxie Control](SP_SBControl.md) program. This program adds the
 yellow Sandboxie icon to the system notification ("tray") area of your taskbar:
 ![](../Media/SP_TrayIconEmpty.png)
 
-If [Sandboxie Control](SandboxieControl.md) is not already active, you can find it and launch it from the Sandboxie
+If [Sandboxie Control](SP_SBControl.md) is not already active, you can find it and launch it from the Sandboxie
 program group in your Windows Start menu:
 
 ![](../Media/SP_StartMenuStartControlWin10.png)
 
 When active, you can use the Sandboxie tray icon to hide and show the main window
-of [Sandboxie Control](SandboxieControl.md), by double-clicking the icon. Or, you can right-click the icon and select
+of [Sandboxie Control](SP_SBControl.md), by double-clicking the icon. Or, you can right-click the icon and select
 the first command _Show/Hide_.
 
-For this tutorial, make sure the main window of [Sandboxie Control](SandboxieControl.md) is visible.
+For this tutorial, make sure the main window of [Sandboxie Control](SP_SBControl.md) is visible.
 
 ![](../Media/SP_SandboxieControl.png)
 

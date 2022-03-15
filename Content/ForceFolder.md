@@ -21,4 +21,4 @@ Another consideration is that metro apps are not supported. If your default appl
 
 See also: [ForceProcess](ForceProcess.md). If both a _ForceFolder_ and a _ForceProcess_ are applicable to a program that is starting, the ForceFolder setting takes precedence.
 
-Related [Sandboxie Control](SandboxieControl.md) setting: [Sandbox Settings > Program Start > Forced Folders](ProgramStartSettings.md#forced-folders)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Program Start > Forced Folders](ProgramStartSettings.md#forced-folders)

@@ -2,7 +2,7 @@
 
 ### "Program Start" Settings Group
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Start:
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Start:
 
 ![](../Media/ProgramStartSettings.png)
 
@@ -12,7 +12,7 @@ Settings in this section control which programs will be automatically sandboxed 
 
 ### Forced Folders
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Start > Forced Folders
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Start > Forced Folders
 
 ![](../Media/ForcedFoldersSettings.png)
 
@@ -38,7 +38,7 @@ Related [Sandboxie Ini](SandboxieIni.md) setting: [ForceFolder](ForceFolder.md).
 
 ### Forced Programs
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Start > Forced Programs
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Start > Forced Programs
 
 ![](../Media/ForcedProgramsSettings.png)
 

@@ -18,4 +18,4 @@ _Immediate Recovery_ can be temporarily disabled until all sandboxed activity st
 
 * * *
 
-Go to [Recovery](SP_Recovery.md), [Sandboxie Control](SandboxieControl.md), [Help Topics](HelpTopics.md).
+Go to [Recovery](SP_Recovery.md), [Sandboxie Control](SP_SBControl.md), [Help Topics](HelpTopics.md).

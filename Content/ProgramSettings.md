@@ -24,7 +24,7 @@ These settings control how Sandboxie handles programs that start outside any san
 
 *   **Issue alert message SBIE1301**
     *   Sandboxie will issue message [SBIE1301](SBIE1301.md) whenever this program starts outside any sandbox.
-    *   See also [Configure Menu > Program Alerts](ConfigureMenu.md#program-alerts).
+    *   See also [Configure Menu > Program Alerts](SBControl_OptionsMenu.md#program-alerts).
 
 <a name="force" id="force"></a>
 

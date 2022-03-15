@@ -38,7 +38,7 @@ In all forms, the parameter _/box:SandboxName_ is applicable, and may be specifi
 
 A special form of the /box parameter is _/box:_**_ask_**__ and causes Start.exe to display the sandbox selection dialog box.
 
-The parameter _/nosbiectrl_ can be used to make sure Start.exe does not try to run [Sandboxie Control](SandboxieControl.md) before running the sandboxed program.
+The parameter _/nosbiectrl_ can be used to make sure Start.exe does not try to run [Sandboxie Control](SP_SBControl.md) before running the sandboxed program.
 ```
   "C:\Program Files\Sandboxie\Start.exe"  /nosbiectrl notepad.exe
 ```

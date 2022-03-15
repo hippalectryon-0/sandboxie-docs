@@ -2,7 +2,7 @@
 
 ### Applications" Settings Group
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications.
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications.
 
 ![](../Media/ApplicationsSettings.png)
 
@@ -12,7 +12,7 @@ This group of settings pages offers quick configuration of Sandboxie for use wit
 
 ### Web Browser
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Web Browser
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Web Browser
 
 This settings sub-group is itself divided into three sub-groups:
 
@@ -45,7 +45,7 @@ Two special settings on the Internet Explorer settings page:
 
 #### Email Reader
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Email Reader
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Email Reader
 
 ![](../Media/EmailReaderSettings.png)  
 
@@ -91,7 +91,7 @@ Select (highlight) the desired configuration and click the _Add_ button to enabl
 
 #### Local
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Local
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Local
 
 ![](../Media/LocalApplicationsSettings.png)
 
@@ -103,7 +103,7 @@ For more information about designing your own application configuration packages
 
 #### Folders
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Folders
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Folders
 
 ![](../Media/FolderApplicationsSettings.png)
 
@@ -115,7 +115,7 @@ First, select (highlight) the desired application, then click the _Add_ button t
 
 #### Accessibility Settings
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Accessibility
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Applications > Accessibility
 
 ![](../Media/AccessibilitySettings.png)
 

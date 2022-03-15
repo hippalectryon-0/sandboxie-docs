@@ -15,7 +15,7 @@ The [Recovery](SP_Recovery.md) command scans the recoverable folders and display
 
 You can invoke the **Recover Files** command:
 
-* From the [Sandbox Menu](SandboxMenu.md) in the main window of Sandboxie Control.
+* From the [Sandbox Menu](SBControl_SandboxMenu.md) in the main window of Sandboxie Control.
 
 * By right-clicking the [Tray Icon Menu](TrayIconMenu.md) at the corner of the screen.
 

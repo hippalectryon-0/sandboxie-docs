@@ -60,7 +60,7 @@
 
 [Configuration Protection](ConfigurationProtection.md)
 
-[Configure Menu](ConfigureMenu.md)
+[Options Menu](SBControl_OptionsMenu.md)
 
 [Copy Limit Kb](CopyLimitKb.md)
 
@@ -142,7 +142,7 @@
 
 ### H
 
-[Help Menu](HelpMenu.md)
+[Help Menu](SBControl_HelpMenu.md)
 
 [Help Topics](HelpTopics.md)
 
@@ -236,7 +236,7 @@
 
 [Program Stop Settings](ProgramStopSettings.md)
 
-[Programs View](ProgramsView.md)
+[Programs View](SBControl_ProgramsView.md)
 
 [Protected Storage](ProtectedStorage.md)
 
@@ -536,11 +536,11 @@
 
 [Sandbox Hierarchy](SandboxHierarchy.md)
 
-[Sandbox Menu](SandboxMenu.md)
+[Sandbox Menu](SBControl_SandboxMenu.md)
 
 [Sandbox Settings](SandboxSettings.md)
 
-[Sandboxie Control](SandboxieControl.md)
+[Sandboxie Control](SP_SBControl.md)
 
 [Sandboxie Ini](SandboxieIni.md)
 

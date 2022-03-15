@@ -87,7 +87,7 @@ Snapshots are recorded in the (typically inaccessible) folder called _System Vol
 
 Thus it is possible that System Restore will create backup copies in its folders for files or programs that exist only in the sandbox.
 
-The System Restore component ignores files and folders in temporary folders, so [moving the sandbox](SandboxMenu.md) to C:\TEMP\SANDBOX instead of the default C:\SANDBOX should cause System Restore to ignore the sandbox when creating a snapshot.
+The System Restore component ignores files and folders in temporary folders, so [moving the sandbox](SBControl_SandboxMenu.md) to C:\TEMP\SANDBOX instead of the default C:\SANDBOX should cause System Restore to ignore the sandbox when creating a snapshot.
 
 **System, Audit and Other Event Logs**
 

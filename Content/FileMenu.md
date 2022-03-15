@@ -1,7 +1,7 @@
 # File Menu
 
 
-[Sandboxie Control](SandboxieControl.md) > File Menu
+[Sandboxie Control](SP_SBControl.md) > File Menu
 
 ![](../Media/FileMenu.png)
 
@@ -9,7 +9,7 @@
 
 ### Terminate All Programs
 
-[Sandboxie Control](SandboxieControl.md) > [File Menu](FileMenu.md) > Terminate All Programs
+[Sandboxie Control](SP_SBControl.md) > [File Menu](FileMenu.md) > Terminate All Programs
 
 The _Terminate All Programs_ command immediately stops all programs running in all sandboxes. There is no window associated with this command. However, you may be warned about the potential loss of any data processed by the programs which are about to be terminated:
 
@@ -23,7 +23,7 @@ See also: [Terminate All Programs](TrayIconMenu.md#terminate-all-programs) in [T
 
 ### Disable Forced Programs
 
-[Sandboxie Control](SandboxieControl.md) > [File Menu](FileMenu.md) > Disable Forced Programs
+[Sandboxie Control](SP_SBControl.md) > [File Menu](FileMenu.md) > Disable Forced Programs
 
 The _Disable Forced Programs_ toggle command temporarily disables or re-enables forced sandboxing. Normally, any [forced programs](ProgramStartSettings.md#forced-programs) (or programs in any [forced folders](ProgramStartSettings.md#forced-folders)) will automatically start under the supervision of Sandboxie. Forced sandboxing is temporarily suspended when the Disable Forced Programs command is invoked.
 
@@ -46,7 +46,7 @@ See also: [Disable Forced Programs](TrayIconMenu.md#disable-forced-programs) in 
 
 ### Run As UAC Administrator
 
-[Sandboxie Control](SandboxieControl.md) > [File Menu](FileMenu.md) > Run As UAC Administrator
+[Sandboxie Control](SP_SBControl.md) > [File Menu](FileMenu.md) > Run As UAC Administrator
 
 The _Run As UAC Administrator_ toggle command tells Sandboxie to ask for elevation to Administrative privileges before starting any programs. This command is only available on Windows Vista when User Account Controls (UAC) is in effect, and the user account is not already elevated. If this command is available in the menu, then it is typically necessary to enable it before installing programs into the sandbox, and it is recommended to disable it when that installation is complete.
 
@@ -58,7 +58,7 @@ See also: [Run As UAC Administrator](TrayIconMenu.md#run-as-uac-administrator) i
 
 ### Is Window Sandboxed?
 
-[Sandboxie Control](SandboxieControl.md) > [File Menu](FileMenu.md) > Is Window Sandboxed?
+[Sandboxie Control](SP_SBControl.md) > [File Menu](FileMenu.md) > Is Window Sandboxed?
 
 The _Is Window Sandboxed?_ command is used to select a window displayed on the screen, and if the window is owned by a sandboxed program, the command displays the name of the program and the sandbox it is running in.
 
@@ -66,7 +66,7 @@ The _Is Window Sandboxed?_ command is used to select a window displayed on the s
 
 To use the command, click and hold the left mouse button on the _Finder Tool_, that is, the icon of a target within a window. Without releasing the left mouse button, drag the target over the desired window, and when the target is within the boundaries of the desired window, release the left mouse button.
 
-If the window is owned by a sandboxed program, Sandboxie will display the program name and sandbox name, will switch the view to [Programs View](ProgramsView.md), and highlight that program.
+If the window is owned by a sandboxed program, Sandboxie will display the program name and sandbox name, will switch the view to [Programs View](SBControl_ProgramsView.md), and highlight that program.
 
 Some programs display their windows using customized graphics, and this prevents Sandboxie from showing the [#] indicators in the title bar. In these cases, you can use the _Is Window Sandboxed?_ command to make sure that the window and its related program are running sandboxed.
 
@@ -74,9 +74,9 @@ Some programs display their windows using customized graphics, and this prevents
 
 ### Exit
 
-[Sandboxie Control](SandboxieControl.md) > [File Menu](FileMenu.md) > Exit
+[Sandboxie Control](SP_SBControl.md) > [File Menu](FileMenu.md) > Exit
 
-The _Exit_ command quits [Sandboxie Control](SandboxieControl.md). Note that merely closing the window (or selecting the _Hide Window_ command from the [Tray Icon Menu](TrayIconMenu.md)) _does not_ quit Sandboxie Control.
+The _Exit_ command quits [Sandboxie Control](SP_SBControl.md). Note that merely closing the window (or selecting the _Hide Window_ command from the [Tray Icon Menu](TrayIconMenu.md)) _does not_ quit Sandboxie Control.
 
 Sandboxie is still active and correctly supervise programs even when the front-end application, Sandboxie Control, is inactive. However, the following features are provided by the Sandboxie Control and will not be available when the front-end program is not running:
 
@@ -88,4 +88,4 @@ If you do not wish to see Sandboxie Control in your system tray area, consider c
 
 * * *
 
-Go to [Sandboxie Control](SandboxieControl.md#menus), [Tray Icon Menu](TrayIconMenu.md), [Help Topics](HelpTopics.md).
+Go to [Sandboxie Control](SP_SBControl.md#menus), [Tray Icon Menu](TrayIconMenu.md), [Help Topics](HelpTopics.md).

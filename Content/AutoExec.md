@@ -19,7 +19,7 @@ Multiple _AutoExec_ settings may be specified for a single sandbox. The commands
 
 This is true even if the command execution fails -- it will not be executed again, unless the sandbox is deleted.
 
-At this time, there is no corresponding [Sandboxie Control](SandboxieControl.md) configuration for this setting.
+At this time, there is no corresponding [Sandboxie Control](SP_SBControl.md) configuration for this setting.
 
 **Technical Details**
 

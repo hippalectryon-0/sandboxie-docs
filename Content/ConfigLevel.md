@@ -2,7 +2,7 @@
 
 **Note: In Sandboxie versions before 3.xx, ConfigLevel was a global setting in the [GlobalSettings] section. The global ConfigLevel setting is no longer used, and is ignored if it exists in the configuration file.**
 
-_ConfigLevel_ is a sandbox setting in [Sandboxie Ini](SandboxieIni.md). It is used by [Sandboxie Control](SandboxieControl.md) to manage default configuration for a sandbox.
+_ConfigLevel_ is a sandbox setting in [Sandboxie Ini](SandboxieIni.md). It is used by [Sandboxie Control](SP_SBControl.md) to manage default configuration for a sandbox.
 
 When ConfigLevel is missing, not a number, or a number below 9, Sandboxie Control will add the following configuration to the sandbox:
 

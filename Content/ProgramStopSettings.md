@@ -2,7 +2,7 @@
 
 ### "Program Stop" Settings Group
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Stop:
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Stop:
 
 ![](../Media/ProgramStopSettings.png)
 
@@ -12,7 +12,7 @@ Settings in this section control when Sandboxie automatically ends programs that
 
 ### Lingering Programs
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Stop > Lingering Programs
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Stop > Lingering Programs
 
 ![](../Media/LingeringProgramsSettings.png)
 
@@ -36,7 +36,7 @@ Related [Sandboxie Ini](SandboxieIni.md) setting: [LingerProcess](LingerProcess.
 
 ### Leader Programs
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Stop > Leader Programs
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Program Stop > Leader Programs
 
 ![](../Media/LeaderProgramsSettings.png)
 

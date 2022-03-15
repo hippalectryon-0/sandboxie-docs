@@ -9,7 +9,7 @@ After completing the email configuration, you may want to test it to make sure t
 *   Disable Internet access in the sandbox. This is a precaution measure, to make sure that your sandboxed email program cannot retrieve new mail messages before you confirm the configuration is correct:  
     Open [Sandbox Settings > Restrictions > Internet Access](RestrictionsSettings.md#internet-access), then click _Block All Programs_, and finally click _OK_.
 
-*   Run your email program _sandboxed_ under Sandboxie. (You can use the _Run Email Reader_ command from the [Tray Icon Menu](TrayIconMenu.md) of [Sandboxie Control](SandboxieControl.md).)
+*   Run your email program _sandboxed_ under Sandboxie. (You can use the _Run Email Reader_ command from the [Tray Icon Menu](TrayIconMenu.md) of [Sandboxie Control](SP_SBControl.md).)
 
 *   Compose a test draft message to yourself. Don't send it.
 

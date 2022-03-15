@@ -35,3 +35,5 @@ Sandboxie documentation.
 * What does the "Remember target selection" dropdown do when checked ? Whether checked or not, the location does not
   change after recovering an item, and is not selected when opening the recovery window again. _Once clarified > update
   Recovery.md_
+* Need to create _SBControl_ViewMenu.md_
+* Need to create _SBControl_LogView.md_ for _Sbie Messages_, _Trace Log_

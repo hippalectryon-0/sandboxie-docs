@@ -22,4 +22,4 @@ Specifying _BoxNameTitle=y_ places the sandbox name in the title bar:
 [#] [DefaultBox] Sandboxie - Front Page - Windows Internet Explorer [#]
 
 
-Related [Sandboxie Control](SandboxieControl.md) setting: [Sandbox Settings > Appearance](AppearanceSettings.md)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > Appearance](AppearanceSettings.md)

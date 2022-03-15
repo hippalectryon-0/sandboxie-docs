@@ -18,4 +18,4 @@ Usage:
    BoxRootFolder=C:\Sandbox
 ```
 
-Related [Sandboxie Control](SandboxieControl.md) setting: [Sandbox menu > Set Container Folder](SandboxMenu.md#set-container-folder)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox menu > Set Container Folder](SBControl_SandboxMenu.md#set-container-folder)

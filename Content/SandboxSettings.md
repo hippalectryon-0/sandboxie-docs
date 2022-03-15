@@ -1,12 +1,12 @@
 # Sandbox Settings
 
-The Sandbox Settings window in [Sandboxie Control](SandboxieControl.md) displays and changes the configuration and options associated with a single sandbox. The Sandbox Settings window can be accessed in two ways:
+The Sandbox Settings window in [Sandboxie Control](SP_SBControl.md) displays and changes the configuration and options associated with a single sandbox. The Sandbox Settings window can be accessed in two ways:
 
-*   From the menu bar: Access the [Sandbox Menu](SandboxMenu.md), select one of the sandboxes listed, then select the _Sandbox Settings_ command:
+*   From the menu bar: Access the [Sandbox Menu](SBControl_SandboxMenu.md), select one of the sandboxes listed, then select the _Sandbox Settings_ command:
 
 ![](../Media/SandboxSettingsMenu.png)
 
-*   From the context menu: In the main window area, right-click (or press Shift+F10) on the name of a sandbox, then select the _Sandbox Settings_ command. (See the discussion about Context Menus in [Programs View](ProgramsView.md) or [Files And Folders View](FilesAndFoldersView.md) for more information.)
+*   From the context menu: In the main window area, right-click (or press Shift+F10) on the name of a sandbox, then select the _Sandbox Settings_ command. (See the discussion about Context Menus in [Programs View](SBControl_ProgramsView.md) or [Files And Folders View](FilesAndFoldersView.md) for more information.)
 
 Note that unless new sandboxes are added, Sandboxie lists only one sandbox: DefaultBox.
 

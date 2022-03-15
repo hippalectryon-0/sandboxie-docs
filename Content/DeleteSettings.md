@@ -2,7 +2,7 @@
 
 ## "Delete" Settings Group
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Delete:
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Delete:
 
 ![](../Media/DeleteSettings.png)
 
@@ -10,7 +10,7 @@ Here you configure when and how Sandboxie deletes the sandbox.
 
 ## Invocation
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Delete > Invocation:
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Delete > Invocation:
 
 ![](../Media/DeleteInvocationSettings.png)
 
@@ -28,7 +28,7 @@ Related [Sandboxie Ini](SandboxieIni.md) settings: [AutoDelete](AutoDelete.md), 
 
 ## Command
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Delete > Command:
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Delete > Command:
 
 ![](../Media/DeleteCommandSettings.png)
 

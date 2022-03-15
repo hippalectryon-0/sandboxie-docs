@@ -8,7 +8,7 @@ On the other hand, the Sandboxie sandbox works like a transparency layer placed 
 
 ![](../Media/PaperAnimation.gif)
 
-(Note: The graphics depicts the [Sandboxie Control](SandboxieControl.md) application prior to version 3.20.)
+(Note: The graphics depicts the [Sandboxie Control](SP_SBControl.md) application prior to version 3.20.)
 
 Thanks to _esalkin_ for the paper metaphore. Thanks to _warwagon_ for the graphics.
 

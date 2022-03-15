@@ -12,8 +12,8 @@ Then, click the **Delete Content** command in the [Tray Icon Menu](TrayIconMenu.
 
 ![](../Media/SP_TrayPopupDelete.png)
 
-You can also invoke the **Delete Content** command from the [Sandbox Menu](SandboxMenu.md) in the main window
-of [Sandboxie Control](SandboxieControl.md). The [Delete Sandbox Content](DeleteSandboxContent.md) window appears:
+You can also invoke the **Delete Content** command from the [Sandbox Menu](SBControl_SandboxMenu.md) in the main window
+of [Sandboxie Control](SP_SBControl.md). The [Delete Sandbox Content](DeleteSandboxContent.md) window appears:
 
 ![](../Media/SP_DeleteSandboxContent.png)
 
@@ -22,7 +22,7 @@ normal and expected. During this time, the Sandboxie tray icon changes to a red 
 is in progress.
 
 Once you have deleted the sandbox's content, you can delete the sandbox itself by right-clicking the sandbox
-in [Sandboxie Control](SandboxieControl.md) and selecting _Remove Sandbox_:
+in [Sandboxie Control](SP_SBControl.md) and selecting _Remove Sandbox_:
 
 ![](../Media/SP_DeleteSandbox.png)
 
@@ -30,7 +30,7 @@ in [Sandboxie Control](SandboxieControl.md) and selecting _Remove Sandbox_:
 In the default configuration, the sandbox's content is not deleted automatically, so you will have to manually invoke
 the **Delete Content** command whenever you want to delete the contents of the sandbox.
 
-This behavior can be changed by altering a setting. In the main window of [Sandboxie Control](SandboxieControl.md),
+This behavior can be changed by altering a setting. In the main window of [Sandboxie Control](SP_SBControl.md),
 double click _DefaultBox_ to open the [Sandbox Settings](SandboxSettings.md) window:
 
 The [Sandbox Settings](SandboxSettings.md) window appears. Navigate to

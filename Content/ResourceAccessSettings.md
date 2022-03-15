@@ -2,7 +2,7 @@
 
 ### "Resource Access" Settings Group
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access
 
 ![](../Media/ResourceAccessSettings.png)
 
@@ -51,7 +51,7 @@ Each settings page within the Resource Access group generally has the following 
 
 ### File Access
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > File Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > File Access
 
 This category manages the following types of resources: Files, folders, drives, and other devices.
 
@@ -95,7 +95,7 @@ Related [Sandboxie Ini](SandboxieIni.md) settings: [ClosedFilePath](ClosedFilePa
 
 ### Registry Access
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > Registry Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > Registry Access
 
 This category manages registry key resources. The registry is a mechanism provided by Windows for programs to store configuration and settings.
 
@@ -129,7 +129,7 @@ Related [Sandboxie Ini](SandboxieIni.md) settings: [ClosedKeyPath](ClosedKeyPath
 
 ### IPC Access
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > IPC Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > IPC Access
 
 This category manages exclusions for NT IPC objects. These resources are created by programs running the system as a way to coordinate operations or otherwise communicate.
 
@@ -153,7 +153,7 @@ Related [Sandboxie Ini](SandboxieIni.md) settings: [ClosedIpcPath](ClosedIpcPath
 
 ### Window Access
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > Window Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > Window Access
 
 This category manages exclusions for window classes. These resources are primarily related to windows displayed on the screen, but can also be used by programs as a way to coordinate operations or otherwise communicate. You can specify which window classes, that were created outside the sandbox, will be available for use by sandboxed programs.
 
@@ -165,7 +165,7 @@ Related [Sandboxie Ini](SandboxieIni.md) settings: [OpenWinClass](OpenWinClass.m
 
 ### COM Access
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > COM Access
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > Resource Access > COM Access
 
 This category manages exclusions for COM classes. These resources represent objects which are used as a way to coordinate operations or otherwise communicate. You can specify the COM class identifiers for those COM objects that exist outside the sandbox, and which should be accessible to sandboxed programs.
 

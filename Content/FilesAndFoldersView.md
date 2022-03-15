@@ -1,10 +1,10 @@
 # Files And Folders View
 
-[Sandboxie Control](SandboxieControl.md) > [Content Browser](ContentBrowser.md) > [Files and Folders](ContentBrowser.md#files-and-folders)
+[Sandboxie Control](SP_SBControl.md) > [Content Browser](ContentBrowser.md) > [Files and Folders](ContentBrowser.md#files-and-folders)
 
 ![](../Media/SP_FileViewFavIcon.png)
 
-The _Files and Folders View_ is a secondary view mode in [Sandboxie Control](SandboxieControl.md). It displays the files and folders in each of the sandboxes, organized into a tree of folders, and grouped by sandbox name.
+The _Files and Folders View_ is a secondary view mode in [Sandboxie Control](SP_SBControl.md). It displays the files and folders in each of the sandboxes, organized into a tree of folders, and grouped by sandbox name.
 
 Within each sandbox, there are two top-level folders:
 
@@ -27,7 +27,7 @@ The _Files and Folders View_ provides context menus for sandboxes and programs. 
 
 *   Select (highlight) the row using the mouse or keyboard, then use the [View Menu -> Context Menu](ContentBrowser.md#context-menu) command.
 
-For a sandbox row, the context menu displayed is the same as [Sandbox Menu -> Sandbox Sub-Menu](SandboxMenu.md#sandbox-sub-menu). See there for a full description.
+For a sandbox row, the context menu displayed is the same as [Sandbox Menu -> Sandbox Sub-Menu](SBControl_SandboxMenu.md#sandbox-sub-menu). See there for a full description.
 
 For a file or folder, the context menu offers these commands:
 
@@ -44,4 +44,4 @@ For a file or folder, the context menu offers these commands:
 
 * * *
 
-Go to [Sandboxie Control](SandboxieControl.md), [Programs View](ProgramsView.md), [Help Topics](HelpTopics.md).
+Go to [Sandboxie Control](SP_SBControl.md), [Programs View](SBControl_ProgramsView.md), [Help Topics](HelpTopics.md).

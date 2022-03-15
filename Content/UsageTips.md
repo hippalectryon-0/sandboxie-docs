@@ -8,7 +8,7 @@
 
 * Learn how to use Sandboxie to [defend against keyloggers](DetectingKeyLoggers.md#defending-against-key-logger).
 
-* Use the [Add Shortcut Icons](ConfigureMenu.md#windows-shell-integration) button to create shortcuts to run your programs sandboxed.
+* Use the [Add Shortcut Icons](SBControl_OptionsMenu.md#windows-shell-integration) button to create shortcuts to run your programs sandboxed.
 
 * Identify sandboxed windows and programs using the [File Menu -> Is Window Sandboxed?](FileMenu.md#is-window-sandboxed) command.
 
@@ -18,6 +18,6 @@
 
 * Use [Sandbox Settings > Forced Folders](ProgramStartSettings.md#forced-folders) to protect CDROM and DVD drives.
 
-* Create [more sandboxes](SandboxMenu.md#create-new-sandbox) for better isolation of separate programs.
+* Create [more sandboxes](SBControl_SandboxMenu.md#create-new-sandbox) for better isolation of separate programs.
 
 > Note: To run a program sandboxed means to invoke it under the supervision of Sandboxie.

@@ -15,4 +15,4 @@ Usage:
 
 See also:
 * [Program Settings](ProgramSettings.md).
-* [Configure Menu > Alert Programs](ConfigureMenu.md#program-alerts).
+* [Configure Menu > Alert Programs](SBControl_OptionsMenu.md#program-alerts).

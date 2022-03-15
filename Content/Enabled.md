@@ -15,10 +15,10 @@ The first example is the typical form of _Enabled_, a required part of any sandb
 
 The second example similarly defines the sandbox _InstallBox_ while also restricting its use to the Administrators user accounts group. Any user account or group that is recognized by the local Windows system can be specified. Multiple _Enabled_ lines may be specified if the list of user accounts does not fit in one line.
 
-A sandbox that has been restricted to specific users is considered _hidden_ to all other user accounts. Those other user accounts will not see the sandbox listed in [Sandboxie Control](SandboxieControl.md), and any [Force Process](ForceProcess.md) or [Force Folder](ForceFolder.md) settings will not apply to those user accounts.
+A sandbox that has been restricted to specific users is considered _hidden_ to all other user accounts. Those other user accounts will not see the sandbox listed in [Sandboxie Control](SP_SBControl.md), and any [Force Process](ForceProcess.md) or [Force Folder](ForceFolder.md) settings will not apply to those user accounts.
 
 Attempts to explicitly start a program in a sandbox that does not have an associated _Enabled=y_ setting will fail.
 
-Related [Sandboxie Control](SandboxieControl.md) setting: [Sandbox Settings > User Accounts](UserAccountsSettings.md)
+Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Settings > User Accounts](UserAccountsSettings.md)
 
-Related [Sandboxie Control](SandboxieControl.md) command: [Sandbox Menu > Reveal Hidden Sandbox](SandboxMenu.md#reveal-hidden-sandbox)
+Related [Sandboxie Control](SP_SBControl.md) command: [Sandbox Menu > Reveal Hidden Sandbox](SBControl_SandboxMenu.md#reveal-hidden-sandbox)

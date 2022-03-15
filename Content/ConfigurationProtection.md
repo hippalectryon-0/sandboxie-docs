@@ -1,6 +1,6 @@
 # Configuration Protection
 
-Initially, anyone operating [Sandboxie Control](SandboxieControl.md) can change any aspect of the Sandboxie configuration, which is stored in the [Sandboxie Ini](SandboxieIni.md) configuration file. Additionally, anyone with access to the configuration text file can also manipulate the configuration and reload it into Sandboxie.
+Initially, anyone operating [Sandboxie Control](SP_SBControl.md) can change any aspect of the Sandboxie configuration, which is stored in the [Sandboxie Ini](SandboxieIni.md) configuration file. Additionally, anyone with access to the configuration text file can also manipulate the configuration and reload it into Sandboxie.
 
 It is possible to activate protection of [Sandboxie Ini](SandboxieIni.md) configuration file from unauthorized changes. Sandboxie offers two modes of protection:
 
@@ -12,7 +12,7 @@ Either or both modes can be active at the same time.
 
 The protection applies to the **Global Settings**, **Sandbox Settings** and **Template Settings** sections of the [Sandboxie Ini](SandboxieIni.md) configuration file. It does not apply to any **User Settings** sections, which store per-user preferences.
 
-To activate the protection, use the [Sandboxie Control > Configure menu > Lock Configuration](ConfigureMenu.md#lock-configuration) command.
+To activate the protection, use the [Sandboxie Control > Configure menu > Lock Configuration](SBControl_OptionsMenu.md#lock-configuration) command.
 
 * * *
 

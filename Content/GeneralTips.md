@@ -2,7 +2,7 @@
 
 **Automatic Delete Sandbox**
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > [Delete](DeleteSettings.md) > [Invocation](DeleteSettings.md#invocation)
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > [Delete](DeleteSettings.md) > [Invocation](DeleteSettings.md#invocation)
 
 ![](../Media/DeleteInvocationSettings.png)
 
@@ -14,7 +14,7 @@ This setting tells Sandboxie to delete the sandbox whenever all programs in the 
 
 **Highlight Windows of Programs Running Under Sandboxie**
 
-[Sandboxie Control](SandboxieControl.md) > [Sandbox Settings](SandboxSettings.md) > [Appearance Settings](AppearanceSettings.md)
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Settings](SandboxSettings.md) > [Appearance Settings](AppearanceSettings.md)
 
 ![](../Media/AppearanceSettings.png)
 
