@@ -44,11 +44,13 @@ Sandboxie documentation.
   spaces are treated the same (can't create both "a a" and "a__a" sandbox)
   . (https://github.com/sandboxie-plus/Sandboxie/issues/1693 When resolved, update _SandboxMenu.md_)
 * Need to create _BoxTypePresets.md_, or create one .md per type of preset and list them in _SandboxMenu.md_
-* SBControl>Sandbox>Create Box Group: What does this do ? Why does the "?" button do nothing ? Why can we create a group
-  with the same name twice ? (solved > create BoxGroups.md. Line to consider: "Related [Sandboxie Ini](SandboxieIni.md)
-  setting: BoxDisplayOrder.")
-* ![](Media/temp_1.png) Why do we have twice [None] ? Why is move up/down always greyed ? Why don't the groups have the
-  group icon (in the creation menu) instead of a sandbox icon ?
+* SBControl>Sandbox>Create Box Group: Why does the "?" button do nothing ? Why can we create a group with the same name
+  twice ? (solved > create BoxGroups.md. Line to consider: "Related [Sandboxie Ini](SandboxieIni.md)
+  setting: BoxDisplayOrder.") {Creating a group whose name already exists seems to do nothing, we should have a
+  warning/...} //
+* ![](Media/temp_1.png) Why do we have twice [None] https://github.com/sandboxie-plus/Sandboxie/issues/1698 {when I
+  right click a group > create new box, the new box gets created at the root instead of in the group} ? Why is move
+  up/down always greyed ? Why don't the groups have the group icon (in the creation menu) instead of a sandbox icon ?
 * "Pause Forcing Programs" > same UI issue as "Create Box Group", the "?" button doesn't do anything. Also: would be
   nice to have an indicator of remaining time.
 * SBControl > Sandbox > Maintenance: What do those options do ? (> SandboxMenu.md, or their own .md file))
@@ -62,3 +64,13 @@ Sandboxie documentation.
 * Right click program > Preset. What do "Block and terminate", "Set linger process" and "Seat leader process" do ?
 * sandbox > Run > Run Program. It says "type '.' to explore your Desktop with Sbie", but when I enter '.' it explores my
   Documents folder instead
+* sandbox > Run > Boxed Tools: why a separate submenu ? (> SandboxSubmenu x2) Also in Registry Editor: before when
+  opening the reg editor it displayed a message saying that we should be careful because the reg editor is not sandboxed
+  and we should be careful to only make changes to the right folders. Now it launches a regedit that's sandboxed and
+  doesn't show a warning, does it mean it's safe ? /Doing it via the system tray > regedit does display the message.
+  Same as box > Box Content > open registry/ ==> in the doc, how do we clearly explain the two different usages ?
+* Termonology: "Terminate all processes" in Sandbox> vs "Terminate all programs" in sandbox>
+* Need to create SnapshotsManager.md
+* What do the admin options do exactly {sandbox > sandbox presets > ..., options > general > admin rights} ? (>
+  SandboxSubmenu.md, Generaloptions.md)
+* What does "Allow Network Share" {sandbox > sandbox presets > allow ...} do ? (SandboxSubmenu.md)
