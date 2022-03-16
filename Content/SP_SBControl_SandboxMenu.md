@@ -75,12 +75,12 @@ For the duration that the Disable Forced Programs mode is in effect:
 
 * The Sandboxie icon in the system tray area includes a small red X.
 * The "Pause Forcing Programs" command in the [Sandbox Menu](SP_SBControl_SandboxMenu.md)
-  and [Tray Icon Menu](TrayIconMenu.md) appears with a checkmark next to it.
+  and [Tray Icon Menu](SP_TrayIconMenu.md) appears with a checkmark next to it.
 * Message [SBIE1301](SBIE1301.md) will be issued if any forced programs are started.
 * Selecting this command again will cancel the mode, restore the icon to its original appearance, and resume the normal
   operation of forced sandboxing.
 
-See also: [Tray Icon Menu > Pause Forcing Programs](TrayIconMenu.md#pause-forcing-programs)
+See also: [Tray Icon Menu > Pause Forcing Programs](SP_TrayIconMenu.md#pause-forcing-programs)
 
 * * *
 
@@ -93,7 +93,7 @@ TODO
 ### Exit
 
 The _Exit_ command quits [Sandboxie Control](SP_SBControl.md). Note that merely closing the window (or selecting the _
-Hide Window_ command from the [Tray Icon Menu](TrayIconMenu.md)) _does not_ quit Sandboxie Control.
+Hide Window_ command from the [Tray Icon Menu](SP_TrayIconMenu.md)) _does not_ quit Sandboxie Control.
 
 Sandboxie is still active and correctly supervise programs even when the front-end application, Sandboxie Control, is
 not running. However, the following features are provided by Sandboxie Control and will not be available when the

@@ -178,7 +178,7 @@ The following command runs a program outside the sandbox, even if the program is
 
 Note that /dfp and /disable_force are identical. You can also select this option by holding the Ctrl and Shift keys down when you click the Run Sandboxed command.
 
-An older form of this command can temporarily disable the forced programs mode, for all programs. It is similar in function to using the Disable Forced Programs command from the [Tray Icon Menu](TrayIconMenu.md#disable-forced-programs) in Sandboxie Control (and not the [File Menu](FileMenu.md#disable-forced-programs)).
+An older form of this command can temporarily disable the forced programs mode, for all programs. It is similar in function to using the Disable Forced Programs command from the [Tray Icon Menu](SP_TrayIconMenu.md#disable-forced-programs) in Sandboxie Control (and not the [File Menu](FileMenu.md#disable-forced-programs)).
 ```
   "C:\Program Files\Sandboxie\Start.exe"  disable_force
 ```

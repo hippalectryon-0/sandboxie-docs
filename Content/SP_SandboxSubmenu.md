@@ -4,7 +4,7 @@ When right-clicking a sandbox in [Sandbox Control > Programs View](SP_SBControl_
 
 ![](../Media/SP_SandboxSubMenuProgramsView.png)
 
-When right-clicking a sandbox in the [Tray Icon Menu](TrayIconMenu.md), a reduced version of this same submenu is
+When right-clicking a sandbox in the [Tray Icon Menu](SP_TrayIconMenu.md), a reduced version of this same submenu is
 displayed.
 
 ![](../Media/SP_SandboxSubMenuTray.png)

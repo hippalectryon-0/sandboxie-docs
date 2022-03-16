@@ -564,7 +564,7 @@
 
 [Trace Logging for Sandboxie Plus](TraceLog.md)
 
-[Tray Icon Menu](TrayIconMenu.md)
+[Tray Icon Menu](SP_TrayIconMenu.md)
 
 ### U
 

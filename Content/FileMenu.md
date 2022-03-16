@@ -16,17 +16,17 @@ to enable it before installing programs into the sandbox, and it is recommended 
 complete.
 
 There is no window associated with this command. However, while the _Run As UAC Administrator_ is in effect, the command
-appears in the [File Menu](FileMenu.md) and [Tray Icon Menu](TrayIconMenu.md) with a checkmark next to it.
+appears in the [File Menu](FileMenu.md) and [Tray Icon Menu](SP_TrayIconMenu.md) with a checkmark next to it.
 
-See also: [Run As UAC Administrator](TrayIconMenu.md#run-as-uac-administrator) in [Tray Icon Menu](TrayIconMenu.md).
-
-* * *
-
+See also: [Run As UAC Administrator](SP_TrayIconMenu.md#run-as-uac-administrator) in [Tray Icon Menu](SP_TrayIconMenu.md).
 
 * * *
 
 
+* * *
+
+
 
 * * *
 
-Go to [Sandboxie Control](SP_SBControl.md#menus), [Tray Icon Menu](TrayIconMenu.md), [Help Topics](HelpTopics.md).
+Go to [Sandboxie Control](SP_SBControl.md#menus), [Tray Icon Menu](SP_TrayIconMenu.md), [Help Topics](HelpTopics.md).

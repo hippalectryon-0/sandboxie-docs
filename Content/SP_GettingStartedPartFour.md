@@ -17,7 +17,7 @@ You can invoke the **Recover Files** command:
 
 * From the [Sandbox Menu](SP_SBControl_SandboxMenu.md) in the main window of Sandboxie Control.
 
-* By right-clicking the [Tray Icon Menu](TrayIconMenu.md) at the corner of the screen.
+* By right-clicking the [Tray Icon Menu](SP_TrayIconMenu.md) at the corner of the screen.
 
 * * *
 The picture above shows _favicon.ico_ as the only recoverable file, because it was the only file saved to a recoverable

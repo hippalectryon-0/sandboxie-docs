@@ -69,7 +69,7 @@ Sandboxie documentation.
   and we should be careful to only make changes to the right folders. Now it launches a regedit that's sandboxed and
   doesn't show a warning, does it mean it's safe ? /Doing it via the system tray > regedit does display the message.
   Same as box > Box Content > open registry/ ==> in the doc, how do we clearly explain the two different usages ?
-* Termonology: "Terminate all processes" in Sandbox> vs "Terminate all programs" in sandbox>
+* Termonology: "Terminate all processes" in Sandbox> vs "Terminate all programs" in sandbox> (same from tray)
 * Need to create SnapshotsManager.md
 * What do the admin options do exactly {sandbox > sandbox presets > ..., options > general > admin rights} ? (>
   SandboxSubmenu.md, Generaloptions.md)

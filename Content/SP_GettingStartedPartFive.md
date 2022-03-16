@@ -8,7 +8,7 @@ other desired work items, it is a good idea to delete the contents of the sandbo
 To delete the content of a sandbox, you must first terminate the processes running in the sandbox. Therefore, start by
 closing the sandboxed browser.
 
-Then, click the **Delete Content** command in the [Tray Icon Menu](TrayIconMenu.md):
+Then, click the **Delete Content** command in the [Tray Icon Menu](SP_TrayIconMenu.md):
 
 ![](../Media/SP_TrayPopupDelete.png)
 

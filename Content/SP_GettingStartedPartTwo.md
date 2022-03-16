@@ -6,7 +6,7 @@ To launch your Web browser, find the start menu entry for _Run Web browser sandb
 
 ![](../Media/SP_SandboxedWebBrowserStartMenu.png)
 
-Alternatively, either in the [Sandboxie Control tray icon](TrayIconMenu.md) or directly
+Alternatively, either in the [Sandboxie Control tray icon](SP_TrayIconMenu.md) or directly
 in [Sandboxie Control](SP_SBControl.md), right click _DefaultBox_ and select _Run &rarr; Default Web Browser_.
 
 ![](../Media/SP_SandboxieControlTrayStartBrowser.png)

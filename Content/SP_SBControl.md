@@ -27,7 +27,7 @@ the things that you can do with it:
 
     * [Help Menu](SBControl_HelpMenu.md)
 
-* See Also: [Tray Icon Menu](TrayIconMenu.md)
+* See Also: [Tray Icon Menu](SP_TrayIconMenu.md)
 
 * * *
 
@@ -40,7 +40,7 @@ typically at the lower-right corner of the screen:
 ![](../Media/SP_TrayIcon.png)
 
 To toggle the hidden state, double-click the tray icon, or right-click it and select _Show/Hide_ (
-see [Tray Icon Menu](TrayIconMenu.md)). Additionally, you can hide the window by clicking the close button (
+see [Tray Icon Menu](SP_TrayIconMenu.md)). Additionally, you can hide the window by clicking the close button (
 X) at the upper-right corner of the window.
 
 To quit Sandboxie Control and remove its tray icon from the system notification area, right-click the tray icon and
