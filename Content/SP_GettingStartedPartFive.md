@@ -12,7 +12,7 @@ Then, click the **Delete Content** command in the [Tray Icon Menu](SP_TrayIconMe
 
 ![](../Media/SP_TrayPopupDelete.png)
 
-You can also invoke the **Delete Content** command from the [Sandbox Menu](SP_SBControl_SandboxMenu.md) in the main window
+You can also invoke the **Delete Content** command from the [Sandbox Menu](SP_SBControl_SbMenu.md) in the main window
 of [Sandboxie Control](SP_SBControl.md). The [Delete Sandbox Content](DeleteSandboxContent.md) window appears:
 
 ![](../Media/SP_DeleteSandboxContent.png)

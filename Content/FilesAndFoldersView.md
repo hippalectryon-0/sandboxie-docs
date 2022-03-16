@@ -27,7 +27,7 @@ The _Files and Folders View_ provides context menus for sandboxes and programs. 
 
 *   Select (highlight) the row using the mouse or keyboard, then use the [View Menu -> Context Menu](ContentBrowser.md#context-menu) command.
 
-For a sandbox row, the context menu displayed is the same as [Sandbox Menu -> Sandbox Sub-Menu](SP_SBControl_SandboxMenu.md#sandbox-sub-menu). See there for a full description.
+For a sandbox row, the context menu displayed is the same as [Sandbox Menu -> Sandbox Sub-Menu](SP_SBControl_SbMenu.md#sandbox-sub-menu). See there for a full description.
 
 For a file or folder, the context menu offers these commands:
 

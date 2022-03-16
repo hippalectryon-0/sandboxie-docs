@@ -21,4 +21,4 @@ Attempts to explicitly start a program in a sandbox that does not have an associ
 
 Related [Sandboxie Control](SP_SBControl.md) setting: [Sandbox Options > User Accounts](UserAccountsSettings.md)
 
-Related [Sandboxie Control](SP_SBControl.md) command: [Sandbox Menu > Reveal Hidden Sandbox](SP_SBControl_SandboxMenu.md#reveal-hidden-sandbox)
+Related [Sandboxie Control](SP_SBControl.md) command: [Sandbox Menu > Reveal Hidden Sandbox](SP_SBControl_SbMenu.md#reveal-hidden-sandbox)

@@ -1,13 +1,13 @@
 # Recovery
 
-_[Sandbox Submenu](SP_SandboxSubmenu.md) > Recover Files_
+_[Sandbox Submenu](SP_SbSubmenu.md) > Recover Files_
 
 Sandboxed programs create files and folders inside the sandbox. It may be desirable to move some of these created files
 out of the sandbox. For instance, a document file downloaded by a sandboxed browser is saved into the sandbox, but that
 file can be extracted and placed in the _Documents_ folder outside the sandbox.
 
 A rudimentary approach is to use the regular, non-sandboxed Windows Explorer to navigate inside the folders that make up
-the sandbox. By using _[Sandbox Submenu](SP_SandboxSubmenu.md) > Box Content > Explore Content_, you can open a folder
+the sandbox. By using _[Sandbox Submenu](SP_SbSubmenu.md) > Box Content > Explore Content_, you can open a folder
 window (unsandboxed) with a view into the sandbox. You can then navigate in the depth of the sandbox folder, and _cut_
 sandboxed files in order to _paste_ them somewhere else.
 
@@ -16,7 +16,7 @@ programs. It scans a few sandboxed folders, which have to be selected in advance
 finds within them. These files (and folders) can be recovered into the corresponding location outside the sandbox, or to
 any location.
 
-To invoke the Recovery window, use the _[Sandbox Submenu](SP_SandboxSubmenu.md) > Recover Files_. Recovery also appears
+To invoke the Recovery window, use the _[Sandbox Submenu](SP_SbSubmenu.md) > Recover Files_. Recovery also appears
 as part of the [Delete Sandbox Content](DeleteSandboxContent.md) window.
 
 **The Recovery Window**

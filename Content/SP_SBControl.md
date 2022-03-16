@@ -19,7 +19,7 @@ the things that you can do with it:
 
 * Main Menu:
 
-    * [Sandbox Menu](SP_SBControl_SandboxMenu.md)
+    * [Sandbox Menu](SP_SBControl_SbMenu.md)
 
     * [View Menu](ViewMenu.md)
 

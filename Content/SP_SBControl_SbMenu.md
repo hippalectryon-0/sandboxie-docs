@@ -74,7 +74,7 @@ box, which appears when you select this command.
 For the duration that the Disable Forced Programs mode is in effect:
 
 * The Sandboxie icon in the system tray area includes a small red X.
-* The "Pause Forcing Programs" command in the [Sandbox Menu](SP_SBControl_SandboxMenu.md)
+* The "Pause Forcing Programs" command in the [Sandbox Menu](SP_SBControl_SbMenu.md)
   and [Tray Icon Menu](SP_TrayIconMenu.md) appears with a checkmark next to it.
 * Message [SBIE1301](SBIE1301.md) will be issued if any forced programs are started.
 * Selecting this command again will cancel the mode, restore the icon to its original appearance, and resume the normal
@@ -101,7 +101,7 @@ front-end program is not running:
 
 * [Automatic Delete Sandbox](SBOptions_GeneralOptions.md#file-options)
 * [Immediate Recovery](ImmediateRecovery.md) and [Recovery](SP_Recovery.md)
-* [Disable Forced Programs mode](SP_SBControl_SandboxMenu.md#pause-forcing-programs) (when initiated from
+* [Disable Forced Programs mode](SP_SBControl_SbMenu.md#pause-forcing-programs) (when initiated from
   the [Sandboxie Start](StartCommandLine.md) program)
 
 If you do not wish to see Sandboxie Control in your system tray area, consider configuring the Windows task bar to

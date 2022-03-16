@@ -8,7 +8,7 @@
 
 #### [Known Conflicts](SandboxieKnownConflicts.md) with other programs
 
-#### [Frequently Asked Questions](FrequentlyAskedQuestions.md)
+#### [Frequently Asked Questions](SP_FAQ.md)
 
 #### [Advanced Topics](AdvancedTopics.md)
 

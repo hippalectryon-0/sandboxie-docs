@@ -22,7 +22,7 @@ You probably should use the 32-bit debugger, even on 64-bit Windows. You only ne
 
 Start the debugger under Sandboxie by using the Sandboxie Start menu.
 
-* [Sandboxie Control](SP_SBControl.md) > [Sandbox Menu](SP_SBControl_SandboxMenu.md) > Run From Start Menu
+* [Sandboxie Control](SP_SBControl.md) > [Sandbox Menu](SP_SBControl_SbMenu.md) > Run From Start Menu
 
 * Sandboxie Plus window > right click on your sandbox > Run > Run From Start Menu
 

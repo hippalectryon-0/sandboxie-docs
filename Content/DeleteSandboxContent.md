@@ -1,6 +1,6 @@
 # Delete Sandbox Content
 
-[Sandboxie Control](SP_SBControl.md) > [Sandbox Menu](SP_SBControl_SandboxMenu.md) > Delete Content  
+[Sandboxie Control](SP_SBControl.md) > [Sandbox Menu](SP_SBControl_SbMenu.md) > Delete Content  
 [Sandboxie Control](SP_SBControl.md) > [Tray Icon Menu](SP_TrayIconMenu.md) > Delete Content
 
 ![](../Media/SP_DeleteSandboxContent.png)
@@ -11,7 +11,7 @@ The _Delete Sandbox_ window appears when the sandbox is about to be deleted. The
 
 *   The lower part counts the size of the sandbox (in files, folders, and bytes of disk space) and contains the _Delete Sandbox_ button which initiates delete processing for the sandbox.
 
-The window is displayed when the [Sandbox Menu > Sandbox > Delete Content](SP_SBControl_SandboxMenu.md#sandbox-menu) command (or the corresponding command from the [Tray Icon Menu](SP_TrayIconMenu.md)) is invoked.
+The window is displayed when the [Sandbox Menu > Sandbox > Delete Content](SP_SBControl_SbMenu.md#sandbox-menu) command (or the corresponding command from the [Tray Icon Menu](SP_TrayIconMenu.md)) is invoked.
 
 The window is also displayed if the sandbox is configured for automatic delete (see [Sandbox Options > Delete > Invocation](DeleteSettings.md#invocation)), and any files are eligible for [Recovery](SP_Recovery.md). Note that if no files are eligible, the sandbox is deleted silently, without displaying the _Delete Sandbox_ window.
 

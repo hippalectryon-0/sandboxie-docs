@@ -120,7 +120,7 @@
 
 [Force Process](ForceProcess.md)
 
-[Frequently Asked Questions](FrequentlyAskedQuestions.md)
+[Frequently Asked Questions](SP_FAQ.md)
 
 ### G
 
@@ -536,7 +536,7 @@
 
 [Sandbox Hierarchy](SandboxHierarchy.md)
 
-[Sandbox Menu](SP_SBControl_SandboxMenu.md)
+[Sandbox Menu](SP_SBControl_SbMenu.md)
 
 [Sandbox Options](SP_SBOptions.md)
 

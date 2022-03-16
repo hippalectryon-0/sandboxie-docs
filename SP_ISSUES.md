@@ -7,6 +7,11 @@ yet.
 All the non-SP items will be reverted to their original values once we're done, so as not to disturb the original Legacy
 Sandboxie documentation.
 
+Naming conventions: _SB_=Sandboxie, _Sb_=Sandbox
+
+Goal of change of names: make articles that are part of the same group appear together in IDEs (ex: settings, tutorial,
+etc.)
+
 # Issues found in updating the doc
 
 * The doc changes related to SB-Plus are precesed bu _SP__ (ex _SP_README.md_). We need to revert all the other (non-SP)
@@ -74,3 +79,8 @@ Sandboxie documentation.
 * What do the admin options do exactly {sandbox > sandbox presets > ..., options > general > admin rights} ? (>
   SandboxSubmenu.md, Generaloptions.md)
 * What does "Allow Network Share" {sandbox > sandbox presets > allow ...} do ? (SandboxSubmenu.md)
+* FAQ _How does Sandboxie protect me, technically?_ > outdated last link _If you want to follow the future development
+  on this,
+  see [New privacy enhanced File/Registry access scheme, White list/Template Mode, plans and discussion](https://github.com/sandboxie-plus/Sandboxie/issues/890)
+  _, should probably redirect to the new enhanced sandboxes, article to be created
+* 

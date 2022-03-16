@@ -30,7 +30,7 @@ The _Run_ sub-sub-menu is used to start programs under the supervision of Sandbo
 
 * _Default Web Browser_: starts the system (default) Web browser.
   (Note: If the wrong program starts,
-  see [Frequently Asked Questions](FrequentlyAskedQuestions.md#why-does-the-wrong-program-start-when-i-run-my-default-web-browser-sandboxed)
+  see [Frequently Asked Questions](SP_FAQ.md#why-does-the-wrong-program-start-when-i-run-my-default-web-browser-sandboxed)
   to fix this.)
 * _Default eMail Client_: starts the system (default) email reader.
 * _Command Prompt_: starts a command prompt
@@ -40,7 +40,7 @@ The _Run_ sub-sub-menu is used to start programs under the supervision of Sandbo
 
 ### Terminate All Programs
 
-See [Terminate All Processes](SP_SBControl_SandboxMenu.md#terminate-all-processes).
+See [Terminate All Processes](SP_SBControl_SbMenu.md#terminate-all-processes).
 
 ### Browse Content
 

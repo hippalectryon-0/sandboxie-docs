@@ -21,7 +21,7 @@ In a few words:
 * [Usage Manual for Sandboxie Control](Content/SP_SBControl.md)
 * [Known Conflicts](Content/SandboxieKnownConflicts.md)
 * [Comparison of Resource Access Settings](Content/ResourceAccess.md)
-* [Frequenty Asked Questions](Content/FrequentlyAskedQuestions.md)
+* [Frequenty Asked Questions](Content/SP_FAQ.md)
 * [Advanced Topics](Content/AdvancedTopics.md)
 * [Technical Aspects](Content/TechnicalAspects.md)
 * [SBIE Messages](Content/SBIEMessages.md)

@@ -37,7 +37,7 @@ The _Windows Shell Integration_ command opens a window which controls how [Sandb
 
 *   _When Windows starts_ will integrate [Sandboxie Control](SP_SBControl.md) into the startup sequence
 
-*   _When a sandboxed program starts_ will start [Sandboxie Control](SP_SBControl.md) (if it is not already running) when a sandboxed program starts. This applies to programs that are started explicitly through Sandboxie, such as when using the [Run Sandboxed](SP_SBControl_SandboxMenu.md#sandbox-menu) commands, or shortcuts created using _Add Shortcut Icons_ (see below). It also applies to [forced programs](ProgramStartSettings.md#forced-programs) and [forced folders](ProgramStartSettings.md#forced-folders).
+*   _When a sandboxed program starts_ will start [Sandboxie Control](SP_SBControl.md) (if it is not already running) when a sandboxed program starts. This applies to programs that are started explicitly through Sandboxie, such as when using the [Run Sandboxed](SP_SBControl_SbMenu.md#sandbox-menu) commands, or shortcuts created using _Add Shortcut Icons_ (see below). It also applies to [forced programs](ProgramStartSettings.md#forced-programs) and [forced folders](ProgramStartSettings.md#forced-folders).
 
 *   The middle frame deals with shortcut icons:
 
@@ -57,7 +57,7 @@ The _Windows Shell Integration_ command opens a window which controls how [Sandb
 *   _Add right-click action "Run Sandboxed" to files and folders_ enables (when checked) or removes (when cleared) the _Run Sandboxed_ option which appears when you click the right mouse button on a file or folder on your desktop or in Windows Explorer.
 
 
-*   _Add sandboxes as targets for "Send To" action_ enables (when checked) or removes (when cleared) the available sandboxes as an option in the _Send To_ action that appears when you click the right mouse button on a file or folder on your desktop or in Windows Explorer. If this setting is enabled, [Sandboxie Control](SP_SBControl.md) will automatically update the list of _Send To_ targets whenever sandboxes are [created](SP_SBControl_SandboxMenu.md#create-new-sandbox) or removed.
+*   _Add sandboxes as targets for "Send To" action_ enables (when checked) or removes (when cleared) the available sandboxes as an option in the _Send To_ action that appears when you click the right mouse button on a file or folder on your desktop or in Windows Explorer. If this setting is enabled, [Sandboxie Control](SP_SBControl.md) will automatically update the list of _Send To_ targets whenever sandboxes are [created](SP_SBControl_SbMenu.md#create-new-sandbox) or removed.
 
 
 * * *
