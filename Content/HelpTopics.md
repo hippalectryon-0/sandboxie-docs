@@ -6,7 +6,7 @@
 
 #### Usage Manual for [Sandboxie](SP_SBControl.md)
 
-#### [Known Conflicts](SandboxieKnownConflicts.md) with other programs
+#### [Known Conflicts](SP_SandboxieKnownConflicts.md) with other programs
 
 #### [Frequently Asked Questions](SP_FAQ.md)
 
