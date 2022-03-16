@@ -22,4 +22,4 @@ NOTE:
 
 Check [BreakoutProcess](BreakoutProcess.md) for information on breaking out programs.
 
-Also check [ForceFolder](ForceFolder.md), the counterpart of this setting, which forces a folder's content to launch sandboxed.
+Also check [Forced Folders](SP_ForcedFolderProcess.md#forced-folders), the counterpart of this setting, which forces a folder's content to launch sandboxed.

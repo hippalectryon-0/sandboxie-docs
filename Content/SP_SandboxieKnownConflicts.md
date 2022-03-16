@@ -77,7 +77,7 @@ repository [here](https://github.com/sandboxie-plus/Sandboxie/issues).
 Problem: Games from GOG Galaxy may not run while sandboxed.
 
 Solution: No fix yet, see [#1246](https://github.com/sandboxie-plus/Sandboxie/issues/1246). You can "force" GOG Program
-folder so that it works correctly within a sandbox. See also: [ForceFolder](ForceFolder.md).
+folder so that it works correctly within a sandbox. See also: [Forced Folders](SP_ForcedFolderProcess.md#forced-folders).
 
 ### MS Edge is stuck when you clean Media Foundation data
 

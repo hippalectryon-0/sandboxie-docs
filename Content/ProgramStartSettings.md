@@ -32,7 +32,7 @@ Notes:
 
 *   The Forced Folders setting is only available in the registered version of Sandboxie.
 
-Related [Sandboxie Ini](SandboxieIni.md) setting: [ForceFolder](ForceFolder.md).
+Related [Sandboxie Ini](SandboxieIni.md) setting: [Forced Folders](SP_ForcedFolderProcess.md#forced-folders).
 
 * * *
 
@@ -61,4 +61,4 @@ Notes:
 
 *   The Forced Programs setting is only available in the registered version of Sandboxie.
 
-Related [Sandboxie Ini](SandboxieIni.md) setting: [ForceProcess](ForceProcess.md).
+Related [Sandboxie Ini](SandboxieIni.md) setting: [Forced Processes](SP_ForcedFolderProcess.md#forced-processes).

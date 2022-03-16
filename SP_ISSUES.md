@@ -83,4 +83,5 @@ etc.)
   on this,
   see [New privacy enhanced File/Registry access scheme, White list/Template Mode, plans and discussion](https://github.com/sandboxie-plus/Sandboxie/issues/890)
   _, should probably redirect to the new enhanced sandboxes, article to be created
-* 
+* Terminology Forced Process vs Forced Program (legacy process, SBPlus UI Program)
+* If a program is in a Forced Folder / Forced Program for several sandboxes, who has priority ? (> ForceFolderProcess.md)

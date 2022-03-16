@@ -116,9 +116,9 @@
 
 [Force Disable Seconds](ForceDisableSeconds.md)
 
-[Force Folder](ForceFolder.md)
+[Forced Folders](SP_ForcedFolderProcess.md#forced-folders)
 
-[Force Process](ForceProcess.md)
+[Forced Processes](SP_ForcedFolderProcess.md#forced-processes)
 
 [Frequently Asked Questions](SP_FAQ.md)
 
